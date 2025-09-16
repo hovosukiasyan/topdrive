@@ -269,6 +269,31 @@ class QuizApp {
             dot.addEventListener('click', () => this.goToQuestion(index));
             progressContainer.appendChild(dot);
         });
+
+        // Add scroll behavior for mobile landscape
+        if (Utils.DeviceUtils.isMobile()) {
+            this.setupProgressScroll();
+        }
+    }
+
+    setupProgressScroll() {
+        const progressContainer = document.getElementById('questionsProgress');
+        if (!progressContainer) return;
+
+        // Auto-scroll to current question on mobile landscape
+        const scrollToCurrentDot = () => {
+            const currentDot = progressContainer.querySelector('.progress-dot.current');
+            if (currentDot && window.innerHeight < window.innerWidth) {
+                currentDot.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'nearest',
+                    inline: 'center'
+                });
+            }
+        };
+
+        // Call when question changes
+        setTimeout(scrollToCurrentDot, 100);
     }
 
     startTimer() {
@@ -430,12 +455,7 @@ class QuizApp {
         // Update progress display
         this.updateProgress();
 
-        // Auto-advance to next question on mobile (with delay)
-        if (Utils.DeviceUtils.isMobile() && this.currentQuestionIndex < this.testData.questions.length - 1) {
-            setTimeout(() => {
-                this.nextQuestion();
-            }, 1000);
-        }
+        // Remove auto-advance functionality - let user navigate manually
     }
 
     goToQuestion(questionIndex) {
@@ -504,6 +524,11 @@ class QuizApp {
                 dot.classList.add('answered'); // This will be yellow per CSS
             }
         });
+
+        // Auto-scroll to current dot on mobile
+        if (Utils.DeviceUtils.isMobile()) {
+            this.setupProgressScroll();
+        }
     }
 
     showQuestionsOverview() {
