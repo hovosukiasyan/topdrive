@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="hy">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Վարորդական Թեստեր - Driving Tests</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-section">
+                    <img src="assets/logo.jpg" alt="Company Logo" class="logo">
+                    <div class="brand-text">
+                        <h1>Վարորդական Թեստեր</h1>
+                        <p>Driving Theory Tests</p>
+                    </div>
+                </div>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-number" id="totalTests">63</span>
+                        <span class="stat-label">Թեստեր</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Welcome Section -->
+            <section class="welcome-section">
+                <div class="welcome-content">
+                    <h2>Ընտրեք թեստը և սկսեք քննությունը</h2>
+                    <p>Յուրաքանչյուր թեստ պարունակում է 20 հարց: Ունեք 30 րոպե ժամանակ և իրավունք ունեք սխալվել առավելագույնը 2 հարցում:</p>
+                </div>
+                <div class="search-filter">
+                    <input type="text" id="searchTests" placeholder="Որոնել թեստ..." class="search-input">
+                </div>
+            </section>
+
+            <!-- Tests Grid -->
+            <section class="tests-section">
+                <div class="tests-grid" id="testsGrid">
+                    <!-- Tests will be dynamically loaded here -->
+                </div>
+            </section>
+
+            <!-- Loading Spinner -->
+            <div class="loading-spinner" id="loadingSpinner">
+                <div class="spinner"></div>
+                <p>Բեռնվում են թեստերը...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Your Company Name. Բոլոր իրավունքները պահպանված են:</p>
+        </div>
+    </footer>
+
+    <script src="js/utils.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,564 @@
+{
+  "test_number": 42,
+  "test_id": 321315,
+  "title": "Թեստ 42",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321261,
+      "question_text": "Եթե մտադիր եք խաչմերուկում կատարել ձախ շրջադարձ, ո՞ր տրանսպորտային միջոցին պետք է զիջեք ճանապարհը։",
+      "image": "e2d7541d-daf2-402d-acd0-f930d2b13b3a.png",
+      "image_local_path": "scraped_data/images/42/e2d7541d-daf2-402d-acd0-f930d2b13b3a.png",
+      "answers": [
+        {
+          "answer_id": 321362,
+          "answer_text": "Բեռնատար ավտոմոբիլին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321363,
+          "answer_text": "Բոլոր տրանսպորտային միջոցներին։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321364,
+          "answer_text": "Ոչ մեկին։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321318,
+      "question_text": "Պարտավոր է արդյո՞ք վարորդն այս իրավիճակում ձախ շրջադարձ կատարելիս լուսային ցուցիչով ազդանշան տալ",
+      "image": "159da44f-fb7b-4460-9ee1-9f1e7dd78bcb.png",
+      "image_local_path": "scraped_data/images/42/159da44f-fb7b-4460-9ee1-9f1e7dd78bcb.png",
+      "answers": [
+        {
+          "answer_id": 321510,
+          "answer_text": "Այո",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321511,
+          "answer_text": "Այո, երբ առկա է հանդիպակաց երթևեկող",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321512,
+          "answer_text": "Պարտավոր չէ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321235,
+      "question_text": "Պարտավո՞ր են արդյոք տրանսպորտային միջոցների վարորդները բնակավայրերում ճանապարհը զիջել կահավորված եւ նշված կանգառի կետերի տարածքից երթեւեկությունը սկսող ընդհանուր օգտագործման տրանսպորտային միջոցներին։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321299,
+          "answer_text": "Այո։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321300,
+          "answer_text": "Ոչ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321724,
+      "question_text": "Տրանսպորտային միջոցները խաչմերուկը կանցնեն հետեւյալ հերթականությամբ՝",
+      "image": "b4e3b482-01fc-4cbc-96e4-06a6e1686f31.png",
+      "image_local_path": "scraped_data/images/42/b4e3b482-01fc-4cbc-96e4-06a6e1686f31.png",
+      "answers": [
+        {
+          "answer_id": 322720,
+          "answer_text": "Տրամվայը, ավտոմոբիլը եւ ավտոբուսը միաժամանակ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322721,
+          "answer_text": "Տրամվայը, ավտոբուսը, ավտոմոբիլը։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322722,
+          "answer_text": "Ավտոբուսը, տրամվայը, ավտոմոբիլը։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321224,
+      "question_text": "Երեք գոտի ունեցող երկկողմ երթեւեկությամբ ճանապարհի վրա Ձեզ անհրաժեշտ է կատարել ձախ շրջադարձ։ Ո՞ր գոտուց կկատարեք տվյալ մանեւրը։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321266,
+          "answer_text": "Աջ գոտուց։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321267,
+          "answer_text": "Միջին գոտուց։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321268,
+          "answer_text": "Աջ կամ միջին գոտուց։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321269,
+          "answer_text": "Միջին գոտուց, եթե զբաղեցված է աջ գոտին։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321943,
+      "question_text": "Այս հորիզոնական ճանապարհային գծանշումը ցույց է տալիս՝",
+      "image": "638a680e-f4ae-45ea-bc5e-6879d904ef59.png",
+      "image_local_path": "scraped_data/images/42/638a680e-f4ae-45ea-bc5e-6879d904ef59.png",
+      "answers": [
+        {
+          "answer_id": 323332,
+          "answer_text": "Երթեւեկելի մասի նեղացում, որտեղ նվազում է երթեւեկության գոտիների քանակը տվյալ ուղղությամբ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323333,
+          "answer_text": "Այն տեղը, որտեղ վարորդը պետք է անհրաժեշտության դեպքում կանգ առնի` հատվող ճանապարհով երթեւեկող տրանսպորտային միջոցներին ճանապարհը զիջելու համար։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323334,
+          "answer_text": "Մոտեցում կանգառն արգելված տեղին։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321624,
+      "question_text": "Թո՞ւյլատրվում է աջ շրջադարձ դեպի հողային ծածկույթով ճանապարհը",
+      "image": "a55274c3-5369-4288-a8a5-8a710c10aa7b.png",
+      "image_local_path": "scraped_data/images/42/a55274c3-5369-4288-a8a5-8a710c10aa7b.png",
+      "answers": [
+        {
+          "answer_id": 322424,
+          "answer_text": "Այո",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322425,
+          "answer_text": "Ոչ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321530,
+      "question_text": "Նշաններից ո՞րն է պարտադրում զիջել ճանապարհը հատվող ճանապարհով ընթացող տրանսպորտային միջոցներին։",
+      "image": "f979ae25-f643-4c5e-b5b3-70ce19b5352f.png",
+      "image_local_path": "scraped_data/images/42/f979ae25-f643-4c5e-b5b3-70ce19b5352f.png",
+      "answers": [
+        {
+          "answer_id": 322116,
+          "answer_text": "1",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322117,
+          "answer_text": "2",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322118,
+          "answer_text": "3",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322119,
+          "answer_text": "4",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322120,
+          "answer_text": "5",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321674,
+      "question_text": "Ո՞ր նշանի ազդման գոտում կարող եք երթևեկել 60կմ/ժ արագությամբ",
+      "image": "72f29bda-0936-49d3-8fc5-e1343d7443ae.png",
+      "image_local_path": "scraped_data/images/42/72f29bda-0936-49d3-8fc5-e1343d7443ae.png",
+      "answers": [
+        {
+          "answer_id": 322575,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322576,
+          "answer_text": "Բ և Գ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322577,
+          "answer_text": "Ոչ մեկի ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321779,
+      "question_text": "Ձախ շրջադարձ կատարելիս",
+      "image": "ab734d15-8781-4ddb-9016-9f49fd4ba2e9.png",
+      "image_local_path": "scraped_data/images/42/ab734d15-8781-4ddb-9016-9f49fd4ba2e9.png",
+      "answers": [
+        {
+          "answer_id": 322869,
+          "answer_text": "Խաչմերուկն առաջինը կանցնեք",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322870,
+          "answer_text": "Կզիջեք ճանապարհը",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321691,
+      "question_text": "Խաչմերուկն առաջինը կանցնի՝",
+      "image": "ea94cd36-2575-429e-9951-8702dfe93bc7.png",
+      "image_local_path": "scraped_data/images/42/ea94cd36-2575-429e-9951-8702dfe93bc7.png",
+      "answers": [
+        {
+          "answer_id": 322623,
+          "answer_text": "Կարմիր ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322624,
+          "answer_text": "Կապույտ ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322625,
+          "answer_text": "Դեղին ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322626,
+          "answer_text": "Կանաչ ավտոմոբիլը։ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321884,
+      "question_text": "Այս խաչմերուկում վարորդը",
+      "image": "d45831eb-36f3-4967-ba26-669a5341c57a.png",
+      "image_local_path": "scraped_data/images/42/d45831eb-36f3-4967-ba26-669a5341c57a.png",
+      "answers": [
+        {
+          "answer_id": 323168,
+          "answer_text": "Կանցնի առաջինը",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323169,
+          "answer_text": "Պետք է զիջի ճանապարհը տրամվային",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321887,
+      "question_text": "Աջ շրջադարձ կատարելիս պարտավո՞ր եք զիջել ճանապարհը հանդիպակացից մոտեցող վարորդին",
+      "image": "a505b79c-830b-49d0-89d3-66364dc4025a.png",
+      "image_local_path": "scraped_data/images/42/a505b79c-830b-49d0-89d3-66364dc4025a.png",
+      "answers": [
+        {
+          "answer_id": 323176,
+          "answer_text": "Այո",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323177,
+          "answer_text": "Ոչ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 321971,
+      "question_text": "Այսպիսի ուղղաձիգ գծանշմամբ նշվում են`",
+      "image": "6fda992e-3209-4019-be64-ec43caf45cc1.png",
+      "image_local_path": "scraped_data/images/42/6fda992e-3209-4019-be64-ec43caf45cc1.png",
+      "answers": [
+        {
+          "answer_id": 323423,
+          "answer_text": "Կամրջի, թունելի ստորին եզրերը։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323424,
+          "answer_text": "Չլուսավորված թունելների մուտքը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323425,
+          "answer_text": "Ճանապարհային շինությունների ցանկացած տարր, որը վտանգ է ստեղծում երթեւեկության համար։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 321991,
+      "question_text": "Ո՞ր վայրում է թույլատրվում կանգառ կատարել",
+      "image": "f341aa16-f74a-4f23-9b6f-268d23997617.png",
+      "image_local_path": "scraped_data/images/42/f341aa16-f74a-4f23-9b6f-268d23997617.png",
+      "answers": [
+        {
+          "answer_id": 323480,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323481,
+          "answer_text": "Միայն Ա և Բ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323482,
+          "answer_text": "Միայն Ա և Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323483,
+          "answer_text": "Ոչ մի վայրում",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 321346,
+      "question_text": "Նշված հետագծով աջ շրջադարձը",
+      "image": "766d40b2-8012-46b0-b5c1-5c8036ea5984.png",
+      "image_local_path": "scraped_data/images/42/766d40b2-8012-46b0-b5c1-5c8036ea5984.png",
+      "answers": [
+        {
+          "answer_id": 321584,
+          "answer_text": "Թույլատրված է",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321585,
+          "answer_text": "Արգելված է ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322025,
+      "question_text": "Կայանումը նշված վայրում",
+      "image": "c9c2a57c-31b4-41e8-89cc-d5526cc951c9.png",
+      "image_local_path": "scraped_data/images/42/c9c2a57c-31b4-41e8-89cc-d5526cc951c9.png",
+      "answers": [
+        {
+          "answer_id": 323583,
+          "answer_text": "Թույլատրվում է",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323584,
+          "answer_text": "Արգելվում է ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322204,
+      "question_text": "Ո՞ր նկարում են պատկերված երթեւեկության թույլատրելի ուղղությունները։",
+      "image": "3cceb9b3-166f-4b68-bc32-d2276a7e2909.png",
+      "image_local_path": "scraped_data/images/42/3cceb9b3-166f-4b68-bc32-d2276a7e2909.png",
+      "answers": [
+        {
+          "answer_id": 324134,
+          "answer_text": "Ձախ նկարում։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324135,
+          "answer_text": "Մեջտեղի նկարում։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324136,
+          "answer_text": "Աջ նկարում։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324137,
+          "answer_text": "Մեջտեղի եւ աջ նկարներում։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322198,
+      "question_text": "Տրանսպորտային միջոցից ի՞նչ հեռավորության վրա է տեղադրվում «Վթարային կանգառ» նշանը։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324117,
+          "answer_text": "Բնակավայրերում՝ ոչ պակաս 15 մ վրա, բնակավայրերից դուրս՝ 30 մ։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324118,
+          "answer_text": "Բնակավայրերում՝ ոչ պակաս 10 մ վրա, բնակավայրերից դուրս՝ 20 մ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324119,
+          "answer_text": "Բնակավայրերում՝ ոչ պակաս 5 մ վրա, բնակավայրերից դուրս՝ 10 մ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322252,
+      "question_text": "Որքա՞ն ժամանակ կարող է կապված մնալ արյունահոսությունը դադարեցնող լարանը:",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324295,
+          "answer_text": "Տաք եղանակին ոչ ավելի, քան կես ժամ, իսկ ցուրտ եղանակին `ոչ ավելի, քան մեկ ժամ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324296,
+          "answer_text": "Տաք եղանակին ոչ ավելի, քան 1 ժամ, իսկ ցուրտ եղանակին` ոչ ավելի, քան կես ժամ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324297,
+          "answer_text": "Լարանի կապված մնալու ժամանակը սահմանափակ չէ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

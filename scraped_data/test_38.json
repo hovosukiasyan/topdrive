@@ -1,0 +1,559 @@
+{
+  "test_number": 38,
+  "test_id": 321311,
+  "title": "Թեստ 38",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321344,
+      "question_text": "Հետադարձ կատարել նշանից հետո թույլատրվում է",
+      "image": "2ea456e4-a988-4d8e-bd1e-b6465cf94c5f.png",
+      "image_local_path": "scraped_data/images/38/2ea456e4-a988-4d8e-bd1e-b6465cf94c5f.png",
+      "answers": [
+        {
+          "answer_id": 321578,
+          "answer_text": "Միայն երկու կողմից 100 մետր տեսանելիության դեպքում ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321579,
+          "answer_text": "Խոչընդոտ չստեղծելու դեպքում",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321580,
+          "answer_text": "Ոչ մի դեպքում ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321316,
+      "question_text": "Ո՞ր տարբերակում է թույլատրված հետընթացը",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321504,
+          "answer_text": "Խաչմերուկներում",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321505,
+          "answer_text": "Աջ եզրային չհանդիսացող գոտիներում",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321506,
+          "answer_text": "Հետիոտնային անցումներում ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321328,
+      "question_text": "Այս գոտուց երթևեկությունը շարունակել թույլատրվում է",
+      "image": "963329de-580d-4444-929e-c6ce36d4e1f4.png",
+      "image_local_path": "scraped_data/images/38/963329de-580d-4444-929e-c6ce36d4e1f4.png",
+      "answers": [
+        {
+          "answer_id": 321537,
+          "answer_text": "Միայն ձախ ուղղությամբ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321538,
+          "answer_text": "Ձախ և հակառակ ուղղություններով",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321539,
+          "answer_text": "Աջ, ձախ և հակառակ ուղղություններով ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321767,
+      "question_text": "«Շրջանաձև երթևեկություն» նշանով կահավորված շրջանաձև երթևեկությամբ խաչմերուկ մուտք գործելիս տրանսպորտային միջոցի վարորդը",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 322837,
+          "answer_text": "պարտավոր է ճանապարհը զիջել այդ խաչմերուկում երթևեկող տրանսպորտային միջոցներին ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322838,
+          "answer_text": "Ունի երթևեկության առավելություն արդեն իսկ այդ խաչմերուկում երթևեկողների նկատմամբ: ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321476,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321940,
+          "answer_text": "Սահմանված ռեժիմով չեն աշխատում արտաքին լուսային սարքերը։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321941,
+          "answer_text": "Ավտոբուսի դողերի պահպանաշերտի նախշանկարի մնացորդային բարձրությունը կազմում է 0.8 մմ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321942,
+          "answer_text": "Երկու դեպքում էլ։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321457,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321885,
+          "answer_text": "Առջեւի մասում տեղադրված են սպիտակ գույնի լուսանդրադարձնող հարմարանքներ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321886,
+          "answer_text": "Անսարք է քարշակի քարշակցման հարմարանքը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321887,
+          "answer_text": "Երկու դեպքում էլ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321677,
+      "question_text": "Ո՞ր ցուցանակով կիրառված նշանի ազդեցությունն է տարածվում 3,5 տոննայից թեթև թույլատրելի առավելագույն զանգվածով բեռնատարի վարորդի վրա",
+      "image": "82308dd0-96d7-4e93-8b11-645118a6bb2b.png",
+      "image_local_path": "scraped_data/images/38/82308dd0-96d7-4e93-8b11-645118a6bb2b.png",
+      "answers": [
+        {
+          "answer_id": 324273,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324274,
+          "answer_text": "Միայն Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324275,
+          "answer_text": "Բ և Գ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324276,
+          "answer_text": "Բոլոր",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321580,
+      "question_text": "Ի՞նչ է ցույց տալիս հետեւյալ ճանապարհային նշանը։",
+      "image": "db861911-e7a5-4b5d-ab52-d95ad0796def.png",
+      "image_local_path": "scraped_data/images/38/db861911-e7a5-4b5d-ab52-d95ad0796def.png",
+      "answers": [
+        {
+          "answer_id": 322298,
+          "answer_text": "Ճանապարհի տվյալ հատվածում թույլատրում է երթեւեկել 50 կմ/ժ-ից ոչ ավելի արագությամբ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322299,
+          "answer_text": "Առաջարկվում է ճանապարհի տվյալ հատվածում երթեւեկել 50 կմ/ժ արագությամբ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322300,
+          "answer_text": "Թույլատրվում է երթևեկել միայն նշանում նշված կամ ավելի բարձր արագությամբ:",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321529,
+      "question_text": "Այս նշանը կոչվում է՝",
+      "image": "bc16bd76-d07b-43db-bc9f-2ef16518edfb.png",
+      "image_local_path": "scraped_data/images/38/bc16bd76-d07b-43db-bc9f-2ef16518edfb.png",
+      "answers": [
+        {
+          "answer_id": 322113,
+          "answer_text": "Արգելքի շրջանցման նախնական ցուցիչ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322114,
+          "answer_text": "Այլ երթեւեկելի մաս վերադասավորվելու նախնական ցուցիչ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322115,
+          "answer_text": "Հանդիպակաց երթեւեկության գոտի դուրս գալու նախնական ցուցիչ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321795,
+      "question_text": "Զիջել ճանապարհը պարտավոր ենք",
+      "image": "82696046-ae7d-41cd-8932-4f56b72beeec.png",
+      "image_local_path": "scraped_data/images/38/82696046-ae7d-41cd-8932-4f56b72beeec.png",
+      "answers": [
+        {
+          "answer_id": 322912,
+          "answer_text": "Թեթև մարդատարի վարորդին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322913,
+          "answer_text": "Ավտոբուսի և թեթև մարդատարի վարոդներին",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322914,
+          "answer_text": "Բոլոր վարոդներին",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321748,
+      "question_text": "Թեթեւ մարդատար ավտոմոբիլը խաչմերուկը կանցնի`",
+      "image": "018cda0e-94f6-42c3-ad67-50a6bb03a3bf.png",
+      "image_local_path": "scraped_data/images/38/018cda0e-94f6-42c3-ad67-50a6bb03a3bf.png",
+      "answers": [
+        {
+          "answer_id": 322783,
+          "answer_text": "Առաջինը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322784,
+          "answer_text": "Երկրորդը` ավտոբուսից հետո։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322785,
+          "answer_text": "Երրորդը։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321904,
+      "question_text": "Պարտավոր եք արդյո՞ք զիջել ճանապարհը ավտոբուսին",
+      "image": "4b1bb55e-a4c1-42fc-b5a0-f8a69f223d2d.png",
+      "image_local_path": "scraped_data/images/38/4b1bb55e-a4c1-42fc-b5a0-f8a69f223d2d.png",
+      "answers": [
+        {
+          "answer_id": 323218,
+          "answer_text": "Այո",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323219,
+          "answer_text": "Ոչ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321861,
+      "question_text": "Ավտոմոբիլը խաչմերուկը կանցնի՝",
+      "image": "a930d2ce-a486-4498-848e-8c8f5aa5df6b.png",
+      "image_local_path": "scraped_data/images/38/a930d2ce-a486-4498-848e-8c8f5aa5df6b.png",
+      "answers": [
+        {
+          "answer_id": 323100,
+          "answer_text": "Առաջինը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323101,
+          "answer_text": "Երկրորդը։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 322060,
+      "question_text": "Նշված իրավիճակում ուղիղ երթևեկելն",
+      "image": "0b150846-0e44-42a5-9b62-22fcb7018792.png",
+      "image_local_path": "scraped_data/images/38/0b150846-0e44-42a5-9b62-22fcb7018792.png",
+      "answers": [
+        {
+          "answer_id": 323687,
+          "answer_text": "Արգելվում է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323688,
+          "answer_text": "Թույլատրվում է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323689,
+          "answer_text": "Թույլատրվում է՝ աջ գոտի վերադասավորվելով",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 321968,
+      "question_text": "Ի՞նչ է նշանակում երթեւեկելի մասի գոտում գծանշված «A» տառը։",
+      "image": "e7fc9a62-248e-4253-8c80-d5900f56ca1b.png",
+      "image_local_path": "scraped_data/images/38/e7fc9a62-248e-4253-8c80-d5900f56ca1b.png",
+      "answers": [
+        {
+          "answer_id": 323413,
+          "answer_text": "Ճանապարհի (երթուղու) համարը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323414,
+          "answer_text": "Ընդհանուր օգտագործման տրանսպորտային միջոցների երթեւեկության համար նախատեսված հատուկ գոտի։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323415,
+          "answer_text": ",A\" կարգի տրանսպորտային միջոցների երթեւեկության համար նախատեսված հատուկ գոտի։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 322130,
+      "question_text": "Վարորդին արգելվում է",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323920,
+          "answer_text": "Երկաթուղային գծանցը հատել ավելի քան 30 կմ/ժ արագությամբ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323921,
+          "answer_text": "Երկաթուղային գծանցը հատել պակաս 30 կմ/ժ արագությունից",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323922,
+          "answer_text": "Առանց երկաթգծի ուղեմասի պետի թույլտվության գծանցով երթևեկել դանդաղընթաց մեքենաներով` 8 կմ/ժ ցածր արագությամբ և տափանների հետ կցված տրակտորներով",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322109,
+      "question_text": "Կահավորված թափքում մարդկանց փոխադրելու դեպքում բեռնատար ավտոմոբիլի վարորդը պարտավոր է երթեւեկել ոչ ավելի քան`",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323849,
+          "answer_text": "50 կմ/ժ արագությամբ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323850,
+          "answer_text": "60 կմ/ժ արագությամբ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323851,
+          "answer_text": "70 կմ/ժ արագությամբ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322169,
+      "question_text": "Ի՞նչ տարածության վրա է արգելվում վազանցը մինչեւ երկաթուղային գծանցը։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324028,
+          "answer_text": "Մինչեւ 50 մ առաջ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324029,
+          "answer_text": "Մինչեւ 100 մ առաջ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324030,
+          "answer_text": "Մինչեւ 150 մ առաջ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322179,
+      "question_text": "Օրվա մութ ժամանակ եւ անբավարար տեսանելիության պայմաններում` անկախ ճանապարհի լուսավորվածությունից, երթեւեկող մեխանիկական տրանսպորտային միջոցների վրա պետք է միացված լինեն`",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324054,
+          "answer_text": "Լապտերների հեռահար լույսը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324055,
+          "answer_text": "Լապտերների մոտակա լույսը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324056,
+          "answer_text": "Լապտերների հեռահար կամ մոտակա լույսը",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322253,
+      "question_text": "Ինչպե՞ս որոշել գիտակցությունը կորցրած տուժածի մոտ շնչառության առկայությունը:",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324298,
+          "answer_text": "Բռնել տուժածի կզակից, հետ թեքել գլուխը և հետևել կրծքավանդակի շարժմանը 10 վայրկյան տևողությամբ: ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324299,
+          "answer_text": "Մի ձեռքը դնել տուժածի ճակատին, մյուս ձեռքի երկու մատով կզակը բարձրացնելով և գլուխը հետ թեքելով անհրաժեշտ է 10 վայրկյան տևողությամբ հետևել շնչառությանը, փորձելով արտաշնչած օդը զգալ Ձեր այտին և հետևել կրծքավանդակի շարժմանը",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324300,
+          "answer_text": "Առանց տուժածի գլուխը թեքելու, անհրաժեշտ է խոնարհվել նրա դեմքին և 10 վայրկյան տևողությամբ հետևել նրա շնչառությունը, փորձելով արտաշնչած օդը զգալ Ձեր այտնի և հետևել կրծքավանդակի շարժմանը: ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

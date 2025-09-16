@@ -1,0 +1,554 @@
+{
+  "test_number": 25,
+  "test_id": 321298,
+  "title": "Թեստ 25",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321312,
+      "question_text": "Ո՞ր հետագծերով է թույլատրված երթևեկությունը",
+      "image": "57595cec-848b-4f63-b9a3-9ed5f4eb298a.png",
+      "image_local_path": "scraped_data/images/25/57595cec-848b-4f63-b9a3-9ed5f4eb298a.png",
+      "answers": [
+        {
+          "answer_id": 321493,
+          "answer_text": "Բոլոր",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321494,
+          "answer_text": "Միայն Ա ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321495,
+          "answer_text": "Միայն Ա կամ Գ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321306,
+      "question_text": "Ձախ շրջադարձը թույլատրվում է",
+      "image": "994d1e0e-02f6-469d-bd2b-8e40f786fbdc.png",
+      "image_local_path": "scraped_data/images/25/994d1e0e-02f6-469d-bd2b-8e40f786fbdc.png",
+      "answers": [
+        {
+          "answer_id": 321477,
+          "answer_text": "Միայն Ա հետագծով",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321478,
+          "answer_text": "Միայն Բ հետագծով",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321479,
+          "answer_text": "Ցանկացած հետագծով ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321417,
+      "question_text": "Քանի՞ երթևեկության գոտիներ ունի այս ճանապարհը",
+      "image": "d542b03f-09d5-4077-b7da-fedceead5608.png",
+      "image_local_path": "scraped_data/images/25/d542b03f-09d5-4077-b7da-fedceead5608.png",
+      "answers": [
+        {
+          "answer_id": 321774,
+          "answer_text": "Երկու",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321775,
+          "answer_text": "Չորս",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321396,
+      "question_text": "«Ճանապարհային երթեւեկության անվտանգության ապահովման մասին» ՀՀ օրենքի համաձայն՝ տրանսպորտային միջոցներ վարելու իրավունքը ծագում է՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321710,
+          "answer_text": "Ճանապարհային ոստիկանության ստորաբաժանումներում տրանսպորտային միջոցներ վարելու գործնական քննությունները դրական հանձնելու պահից։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321711,
+          "answer_text": "Վարորդական իրավունքի վկայական ստանալու պահից։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321463,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321901,
+          "answer_text": "Հետեւի մասում տեղադրված են կարմիր գույնի լուսանդրադարձնող հարմարանքներ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321902,
+          "answer_text": "Չի աշխատում կառուցվածքով նախատեսված արագաչափը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321903,
+          "answer_text": "Երկու դեպքում էլ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321443,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321842,
+          "answer_text": "Խախտված է շարժիչի հենատուփի օդափոխության համակարգի հերմետիկությունը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321843,
+          "answer_text": "Խախտված է շարժիչի սնման համակարգի հերմետիկությունը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321844,
+          "answer_text": "Երկու դեպքում էլ։ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321613,
+      "question_text": "Ի՞նչ է ցույց տալիս լրացուցիչ տեղեկատվության ցուցանակը",
+      "image": "8c6f232e-2c6f-4b6b-a228-2d546ae8d522.png",
+      "image_local_path": "scraped_data/images/25/8c6f232e-2c6f-4b6b-a228-2d546ae8d522.png",
+      "answers": [
+        {
+          "answer_id": 322393,
+          "answer_text": "նշանից մինչև խաչմերուկ եղած հեռավորությունը, երբ խաչմերուկից անմիջապես առաջ տեղադրված է «Զիջեք ճանապարհը» նշանը ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322394,
+          "answer_text": "նշանից մինչև խաչմերուկ եղած հեռավորությունը, երբ խաչմերուկից անմիջապես առաջ տեղադրված է «Երթևեկությունն առանց կանգառի արգելված է» նշանը",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322395,
+          "answer_text": "Սահմանային անցակետի գտնվելու վայրը",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321668,
+      "question_text": "Նշվածներից ո՞ր ուղղությամբ է թույլատրված երթևեկությունը",
+      "image": "f445d095-c459-4abe-824f-0fcae508621a.png",
+      "image_local_path": "scraped_data/images/25/f445d095-c459-4abe-824f-0fcae508621a.png",
+      "answers": [
+        {
+          "answer_id": 322557,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322558,
+          "answer_text": "Միայն Ա և Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322559,
+          "answer_text": "Միայն Բ և Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322560,
+          "answer_text": "Բոլոր",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321577,
+      "question_text": "Տվյալ իրադրությունում պարտավո՞ր է վարորդը ճանապարհը զիջել բեռնատար ավտոմոբիլին։",
+      "image": "0c3f3509-e7d4-4748-ba35-da48e3405111.png",
+      "image_local_path": "scraped_data/images/25/0c3f3509-e7d4-4748-ba35-da48e3405111.png",
+      "answers": [
+        {
+          "answer_id": 322291,
+          "answer_text": "Պարտավոր է։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322292,
+          "answer_text": "Պարտավոր չէ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321705,
+      "question_text": "Խաչմերուկը վերջինը կանցնի՝",
+      "image": "acd7d85f-4769-4fb6-af83-06af4ff2991f.png",
+      "image_local_path": "scraped_data/images/25/acd7d85f-4769-4fb6-af83-06af4ff2991f.png",
+      "answers": [
+        {
+          "answer_id": 322666,
+          "answer_text": "Կանաչ ավտոմոբիլը։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322667,
+          "answer_text": "Կապույտ ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322668,
+          "answer_text": "Կարմիր ավտոմոբիլը։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321792,
+      "question_text": "Ձախ շրջադարձ կատարելիս պարտավոր եք ճանապարհը զիջել",
+      "image": "228a8b60-86f0-462f-af1b-f9ce442ff03c.png",
+      "image_local_path": "scraped_data/images/25/228a8b60-86f0-462f-af1b-f9ce442ff03c.png",
+      "answers": [
+        {
+          "answer_id": 322904,
+          "answer_text": "Միայն թեթև մարդատարի վարորդին",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322905,
+          "answer_text": "Թեթև մարդատարի և ավտոբուսի վարորդին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322906,
+          "answer_text": "Ոչ ոքի",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": "  "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321911,
+      "question_text": "Ձախ շրջադարձ կատարելը թույլատրվում է",
+      "image": "341ba892-85d8-42d3-b0b8-fb8dd6471cff.png",
+      "image_local_path": "scraped_data/images/25/341ba892-85d8-42d3-b0b8-fb8dd6471cff.png",
+      "answers": [
+        {
+          "answer_id": 323234,
+          "answer_text": "Դարձափոխային գոտուց",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323235,
+          "answer_text": "Նկարում նշված գոտուց ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321877,
+      "question_text": "Այս իրավիճակում ձախ շրջադարձ կատարելիս",
+      "image": "8b6876e8-cc85-4437-b917-6dfe03895eda.png",
+      "image_local_path": "scraped_data/images/25/8b6876e8-cc85-4437-b917-6dfe03895eda.png",
+      "answers": [
+        {
+          "answer_id": 323151,
+          "answer_text": "Կզիջենք ճանապարհը տրամվային",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323152,
+          "answer_text": "Խաչմերուկն առաջինը կանցնեմ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 322061,
+      "question_text": "Քան՞ի երթևեկության գոտի ունի այս ճանապարհը",
+      "image": "62ede3b8-8e90-4e34-b2a6-68eefc04793a.png",
+      "image_local_path": "scraped_data/images/25/62ede3b8-8e90-4e34-b2a6-68eefc04793a.png",
+      "answers": [
+        {
+          "answer_id": 323690,
+          "answer_text": "Երկու",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323691,
+          "answer_text": "Չորս",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 322056,
+      "question_text": "Ո՞ր տրանսպորտային միջոցները կարող են երթևեկել այս ճանապարհի աջ եզրային գոտիով",
+      "image": "074aa401-e89f-4c6d-81b9-5b8edeb5a849.png",
+      "image_local_path": "scraped_data/images/25/074aa401-e89f-4c6d-81b9-5b8edeb5a849.png",
+      "answers": [
+        {
+          "answer_id": 323674,
+          "answer_text": "Տրոլեյբուսներն ու ընդհանուր օգտագործման ավտոբուսները",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323675,
+          "answer_text": "Տրոլեյբուսներն ու ավտոբուսները",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323676,
+          "answer_text": "Միայն ավտոբուսները",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 322107,
+      "question_text": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում ավտոբուսների երթեւեկությունը «Բնակելի գոտի» եւ «Բնակելի գոտու վերջը» նշաններով կահավորված տարածքներում։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323844,
+          "answer_text": "20 կմ/ժ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323845,
+          "answer_text": "30 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323846,
+          "answer_text": "40 կմ/ժ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": "   ",
+        "description": "  "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322079,
+      "question_text": "Ինչպիսի՞ առավելագույն արագությամբ կարող է իրականացվել քարշակումը տվյալ պայմաններում։",
+      "image": "873bfc04-4bbc-4f41-94a8-0046caa298e7.png",
+      "image_local_path": "scraped_data/images/25/873bfc04-4bbc-4f41-94a8-0046caa298e7.png",
+      "answers": [
+        {
+          "answer_id": 323748,
+          "answer_text": "30 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323749,
+          "answer_text": "50 կմ/ժ։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323750,
+          "answer_text": "70 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323751,
+          "answer_text": "80 կմ/ժ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322155,
+      "question_text": "Երկաթուղային գծանցի վրա տրվող ընդհանուր տագնապի ազդանշան է հանդիսանում ձայնային ազդանշանների հետեւյալ համակցությունը՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323992,
+          "answer_text": "Երկու երկար եւ երկու կարճ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323993,
+          "answer_text": "Մեկ երկար եւ երեք կարճ։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323994,
+          "answer_text": "Երեք երկար եւ երեք կարճ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323995,
+          "answer_text": "Երեք երկար եւ մեկ կարճ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322298,
+      "question_text": "Վարորդի դեպի վեր պարզած ձեռքով տեղեկացնում է",
+      "image": "863482dd-233f-4226-a6be-f3adda426b80.png",
+      "image_local_path": "scraped_data/images/25/863482dd-233f-4226-a6be-f3adda426b80.png",
+      "answers": [
+        {
+          "answer_id": 324425,
+          "answer_text": "Ձախ շրջադարձ կատարելու մասին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324426,
+          "answer_text": "Ուղիղ երթևեկելու մասին ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324427,
+          "answer_text": "Ընթացքը դանդաղեցնելու մասին",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322258,
+      "question_text": "Ինչպե՞ս է առաջին օգնություն իրականացվում վերջույթների կոտրվածքների դեպքում, եթե չկան շինաներ և այն պատրաստելու համար ձեռքի տակ եղած միջոցներ",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324313,
+          "answer_text": "Վերին վերջույթը` իրանի երկայնքով տարածած, կապվում է իրանին: Ստորին վերջույթները կապվում են միմյանց՝ փափուկ կտոր դնելով դրանց միջև: ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324314,
+          "answer_text": "Վերին վերջույթը` արմնկային հոդում ծալված, գլխաշորի վրա հենած`կապվում է իրանին: Ստորին վերջույթները կապվում են միմյանց` փափուկ կտոր դնելով դրանց միջև:",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324315,
+          "answer_text": "Վերին վերջույթը, արմնկային հոդում ծալված, գլխաշորի վրա հենած`կապվում է իրանին: Ստորին վերջույթները կապվում են միմյանց",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

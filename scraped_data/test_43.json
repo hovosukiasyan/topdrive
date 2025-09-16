@@ -1,0 +1,574 @@
+{
+  "test_number": 43,
+  "test_id": 321316,
+  "title": "Թեստ 43",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321355,
+      "question_text": "Թույլատրվում է հետադարձն այս վայրում",
+      "image": "ef41e78b-4dc4-457b-aa82-079a7acfce35.png",
+      "image_local_path": "scraped_data/images/43/ef41e78b-4dc4-457b-aa82-079a7acfce35.png",
+      "answers": [
+        {
+          "answer_id": 321607,
+          "answer_text": "Թույլատրվում է երկու կողմից 100մ տեսանելիության պայմաններում",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321608,
+          "answer_text": "Արգելվում է",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321271,
+      "question_text": "Այս իրավիճակում",
+      "image": "ae2913e2-e986-4f7f-bb3f-86a75ffd5045.png",
+      "image_local_path": "scraped_data/images/43/ae2913e2-e986-4f7f-bb3f-86a75ffd5045.png",
+      "answers": [
+        {
+          "answer_id": 321389,
+          "answer_text": "Պետք է զիջեք ճանապարհը",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321390,
+          "answer_text": "Կարող եք առաջինն անցնել",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321280,
+      "question_text": "Ո՞ր հետագծով է թույլատրված աջ շրջադարձը",
+      "image": "05f21571-45c7-45cb-9e84-6e8dd0d1a7a7.png",
+      "image_local_path": "scraped_data/images/43/05f21571-45c7-45cb-9e84-6e8dd0d1a7a7.png",
+      "answers": [
+        {
+          "answer_id": 321411,
+          "answer_text": "Միայն Ա",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321412,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321413,
+          "answer_text": "Երկու հետագծերով",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 322008,
+      "question_text": "Ո՞ր դեպքում է վարորդը խախտել կանգառ կատարելու կանոնները",
+      "image": "d94e4314-c78c-4f72-be09-4b4f2e663fb0.png",
+      "image_local_path": "scraped_data/images/43/d94e4314-c78c-4f72-be09-4b4f2e663fb0.png",
+      "answers": [
+        {
+          "answer_id": 323529,
+          "answer_text": "Միայն Ա",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323530,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323531,
+          "answer_text": "Ոչ ոք",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323532,
+          "answer_text": "Երկուսն էլ խախտել են",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321200,
+      "question_text": "Նշաններից ո՞րն է կոչվում «Արգելքի շրջանցումը ձախից»։",
+      "image": "69ca6df2-66ea-4cf6-81d9-9acad126724d.png",
+      "image_local_path": "scraped_data/images/43/69ca6df2-66ea-4cf6-81d9-9acad126724d.png",
+      "answers": [
+        {
+          "answer_id": 321200,
+          "answer_text": "1",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321201,
+          "answer_text": "2",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321202,
+          "answer_text": "3",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321205,
+          "answer_text": "4",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321206,
+          "answer_text": "5",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": " 4.2.2. «Արգելքի շրջանցումը ձախից»  շրջանցումը թույլատրվում է միայն սլաքով ցույց տրված կողմից."
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321969,
+      "question_text": "Տրանսպորտային միջոցին թույլատրվու՞մ է կանգնել նշված տեղում ուղեւորներ իջեցնելու համար։",
+      "image": "fd444fb8-171b-4bc3-86c5-2fa58011312d.png",
+      "image_local_path": "scraped_data/images/43/fd444fb8-171b-4bc3-86c5-2fa58011312d.png",
+      "answers": [
+        {
+          "answer_id": 323416,
+          "answer_text": "Թույլատրվում է։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323417,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323418,
+          "answer_text": "Թույլատրվում է` բայց մայթին բարձրանալով։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321558,
+      "question_text": "Նշաններից ո՞րն է կոչվում «Միակողմ երթեւեկությամբ ճանապարհի վերջ»։",
+      "image": "ab3a4d33-f15b-4d11-a3a5-476ad8106c57.png",
+      "image_local_path": "scraped_data/images/43/ab3a4d33-f15b-4d11-a3a5-476ad8106c57.png",
+      "answers": [
+        {
+          "answer_id": 322230,
+          "answer_text": "1",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322231,
+          "answer_text": "2",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322232,
+          "answer_text": "3",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322233,
+          "answer_text": "4",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322234,
+          "answer_text": "5",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321579,
+      "question_text": "Ի՞նչ են ցույց տալիս հետեւյալ ճանապարհային նշանները։",
+      "image": "e1066478-4f9c-4764-9d40-756ec287e744.png",
+      "image_local_path": "scraped_data/images/43/e1066478-4f9c-4764-9d40-756ec287e744.png",
+      "answers": [
+        {
+          "answer_id": 322295,
+          "answer_text": "Կանգառն արգելված է շաբաթ օրերին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322296,
+          "answer_text": "Կանգառն արգելված է կիրակի օրերին։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322297,
+          "answer_text": "Կանգառն արգելված է աշխատանքային օրերին։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321537,
+      "question_text": "Հետեւյալ նշաններից ո՞րն է ցույց տալիս նախազգուշացնող նշանների ազդեցության` ճանապարհի վտանգավոր հատվածի երկարությունը։",
+      "image": "d2d2637f-b799-4ab3-83ef-dd8e012f4d5b.png",
+      "image_local_path": "scraped_data/images/43/d2d2637f-b799-4ab3-83ef-dd8e012f4d5b.png",
+      "answers": [
+        {
+          "answer_id": 322145,
+          "answer_text": "1",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322146,
+          "answer_text": "2",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322147,
+          "answer_text": "3",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322148,
+          "answer_text": "4",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322149,
+          "answer_text": "5",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321723,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի վարորդն ունի առաջնահերթ երթեւեկության իրավունք։",
+      "image": "36d7c3d6-23f3-4a07-9bdc-190aa8b75ad0.png",
+      "image_local_path": "scraped_data/images/43/36d7c3d6-23f3-4a07-9bdc-190aa8b75ad0.png",
+      "answers": [
+        {
+          "answer_id": 322718,
+          "answer_text": "Ավտոմոբիլի վարորդը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322719,
+          "answer_text": "Հեծանվորդը։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321763,
+      "question_text": "Պարտավոր ենք զիջել ճանապարհը",
+      "image": "7470665d-f4bb-40e2-a20a-fcb59947064f.png",
+      "image_local_path": "scraped_data/images/43/7470665d-f4bb-40e2-a20a-fcb59947064f.png",
+      "answers": [
+        {
+          "answer_id": 322825,
+          "answer_text": "Միայն տրամվայի վարորդին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322826,
+          "answer_text": "Բեռնատարի վարորդին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322827,
+          "answer_text": "Երկու վարորդներին",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321918,
+      "question_text": "Նշված գոտուց ուղիղ երթևեկությունը",
+      "image": "09b62b21-94d6-4c82-9760-0449322d71b1.png",
+      "image_local_path": "scraped_data/images/43/09b62b21-94d6-4c82-9760-0449322d71b1.png",
+      "answers": [
+        {
+          "answer_id": 323252,
+          "answer_text": "Թույլատրված է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323253,
+          "answer_text": "Թույլատրված է միայն հիմնական կանաչ ազդանշանի միանալուց հետո",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323254,
+          "answer_text": "Արգելված է",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321838,
+      "question_text": "Ո՞ր տրանսպորտային միջոցներին է թույլատրվում երթեւեկությունը։",
+      "image": "d4c2a1ff-47ee-4e69-b4a5-615e90a5fa11.png",
+      "image_local_path": "scraped_data/images/43/d4c2a1ff-47ee-4e69-b4a5-615e90a5fa11.png",
+      "answers": [
+        {
+          "answer_id": 323035,
+          "answer_text": "Դեղին եւ կարմիր ավտոմոբիլներին։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323036,
+          "answer_text": "Կանաչ, կարմիր եւ սպիտակ ավտոմոբիլներին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323037,
+          "answer_text": "Սպիտակ եւ կանաչ ավտոմոբիլներին։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 321962,
+      "question_text": "Եթե երկաթուղային գծանցով երթեւեկությունը արգելված է եւ բացակայում են լուսացույցը, ճանապարհային նշանները, գծանշումն ու ուղեփակոցը, ապա վարորդը պետք է կանգնի՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323392,
+          "answer_text": "Մոտակա ռելսից ոչ պակաս, քան 5 մ հեռավորության վրա։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323393,
+          "answer_text": "Մոտակա ռելսից ոչ պակաս, քան 7 մ հեռավորության վրա։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323394,
+          "answer_text": "Մոտակա ռելսից ոչ պակաս, քան 10 մ հեռավորության վրա։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 321970,
+      "question_text": "Թույլատրվու՞մ է շարունակել երթեւեկությունը սլաքով նշված ուղղությամբ։",
+      "image": "467924c8-f295-4530-b9d8-62669fbc2954.png",
+      "image_local_path": "scraped_data/images/43/467924c8-f295-4530-b9d8-62669fbc2954.png",
+      "answers": [
+        {
+          "answer_id": 323419,
+          "answer_text": "Արգելվում է։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323420,
+          "answer_text": "Թույլատրվում է բոլոր դեպքերում։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323421,
+          "answer_text": "Թույլատրվում է ուղեւորներ իջեցնելու նպատակով կանգառ կատարելու համար։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323422,
+          "answer_text": "Թույլատրվում է բեռնատար ավտոմոբիլին վազանցելու նպատակով։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 321252,
+      "question_text": "Տվյալ իրադրությունում պարտավո՞ր է մոտոցիկլի վարորդը զիջել ճանապարհը։",
+      "image": "8057b484-9db6-4dcb-ac6b-fba1a25af5ba.png",
+      "image_local_path": "scraped_data/images/43/8057b484-9db6-4dcb-ac6b-fba1a25af5ba.png",
+      "answers": [
+        {
+          "answer_id": 321340,
+          "answer_text": "Պարտավոր չէ։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321341,
+          "answer_text": "Պարտավոր է։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": "  "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322032,
+      "question_text": "Թույլատրվում է արդյո՞ք բեռնատարից առաջ անցնելուց հետո շարունակել երթևեկությունը այս գոտով:",
+      "image": "d6aa25e8-ffd8-4837-9a1d-b76bd46f6b8b.png",
+      "image_local_path": "scraped_data/images/43/d6aa25e8-ffd8-4837-9a1d-b76bd46f6b8b.png",
+      "answers": [
+        {
+          "answer_id": 323604,
+          "answer_text": "Այո",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323605,
+          "answer_text": "Ոչ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322278,
+      "question_text": "Թույլատրվու՞մ է արդյոք մուտք գործել երկաթուղային գծանց տվյալ իրավիճակում։",
+      "image": "0c230429-46ce-4c3e-811d-6daf745b28a0.png",
+      "image_local_path": "scraped_data/images/43/0c230429-46ce-4c3e-811d-6daf745b28a0.png",
+      "answers": [
+        {
+          "answer_id": 324370,
+          "answer_text": "Թույլատրվում է։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324371,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322274,
+      "question_text": "Պարտավո՞ր է արդյոք վարորդը միացնել շրջադարձի ցուցիչը տվյալ դեպքում։",
+      "image": "bd7f46a4-f9bb-4093-8733-72c9bf9de28e.png",
+      "image_local_path": "scraped_data/images/43/bd7f46a4-f9bb-4093-8733-72c9bf9de28e.png",
+      "answers": [
+        {
+          "answer_id": 324359,
+          "answer_text": "Պարտավոր է։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324360,
+          "answer_text": "Պարտավոր չէ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322247,
+      "question_text": "Վթարի դեպքում շտապօգնության կանչի համար ի՞նչ տեղեկատվություն պետք է տրամադրվի օպերատորին.",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324280,
+          "answer_text": "Նշել վթարի վայրին ամենամոտ գտնվող կողմնորոշիչը: Հաղորդել տուժածների թիվը, նշել նրանց սեռը և տարիքը. ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324281,
+          "answer_text": "Նշել վթարի վայրին ամենամոտ գտնվող փողոցը և տան համարը: Տեղեկացնել, թե ով է տուժել վթարի հետևանքով (հետիոտն, մեքենայի վարորդ կամ ուղևոր) և նկարագրել ստացված վնասվածքները:",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324282,
+          "answer_text": "Նշել վթարի վայրը (փողոցը, տան համարը և դեպքի վայրին ամենամոտ կողմնորոշիչները): Տեղեկացնել տուժածների թիվը, նրանց սեռը, մոտավոր տարիքը, գիտակցության, շնչառության, արյան շրջանառության, ինչպես նաև ուժեղ արյունահոսության, կոտրվածքների և այլ վնասվածքների առկայության մասին: Սպասել մինչև օպերատորը նշի, որ կանչն ընդունված է:",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "test_number": 20,
+  "test_id": 321293,
+  "title": "Թեստ 20",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321205,
+      "question_text": "Խաչմերուկում կազմակերպված է շրջանաձեւ երթեւեկություն։ Երթեւեկելի մասը, որով մոտենում եք խաչմերուկին, ունի երթեւեկության երկու գոտի։ Խաչմերուկ մուտք գործելիս` շրջադարձ կատարելու համար ո՞ր գոտին եք պարտավոր զբաղեցնել՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321212,
+          "answer_text": "Աջ գոտին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321213,
+          "answer_text": "Ձախ գոտին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321214,
+          "answer_text": "Կա՛մ աջ, կա՛մ ձախ գոտին։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": "Շրջանաձև երթևեկություն թուլյատրվում է մտնել ցանկացած գոտուց։"
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321219,
+      "question_text": "Ճանապարհային նշանների, գծանշման եւ բաժանարար գոտու բացակայության դեպքում վարորդները երկկողմ երթեւեկությամբ ճանապարհների երթեւեկելի մասում գտնվող ճանապարհային կառույցների տարրերը պետք է շրջանցեն՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321255,
+          "answer_text": "Աջ կողմից։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321256,
+          "answer_text": "Ձախ կողմից։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321422,
+      "question_text": "Վերադասավորում է համարվում",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321788,
+          "answer_text": "տրանսպորտային միջոցի զբաղեցրած երթևեկության գոտուց երթևեկության սկզբնական ուղղությունը պահպանելով, դուրս գալը ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321789,
+          "answer_text": "տրանսպորտային միջոցի գծանշված երթևեկության գոտու սահմաններում զբաղեցրած շարքից, երթևեկության սկզբնական ուղղությունը պահպանելով, դուրս գալը ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321790,
+          "answer_text": "Նշված երկու դեպքերը",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321406,
+      "question_text": "«Ճանապարհային երթեւեկության անվտանգության ապահովման մասին» ՀՀ օրենքի համաձայն՝ ընդհանուր օգտագործման տրանսպորտային միջոցի կանգառի կետ է համարվում՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321741,
+          "answer_text": "Ընդհանուր օգտագործման տրանսպորտային միջոցի երթուղու որոշակի հատվածում ուղեւորների նստեցման-իջեցման համար նախատեսված եւ համապատասխան ճանապարհային նշաններով կահավորված վայր։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321742,
+          "answer_text": "Ընդհանուր օգտագործման տրանսպորտային միջոցի երթուղու որոշակի հատվածում ուղեւորների նստեցման-իջեցման համար նախատեսված վայր։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321479,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321949,
+          "answer_text": "Չեն աշխատում թեթեւ մարդատար ավտոմոբիլի սրահի ներքին լուսավորության սարքերը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321950,
+          "answer_text": "Չեն աշխատում ավտոբուսի սրահի ներքին լուսավորության սարքերը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321951,
+          "answer_text": "Երկու դեպքում էլ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321455,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321879,
+          "answer_text": "Առջեւի մասում տեղադրված են դեղին գույնի լույսերով շրջադարձի ցուցիչներ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321880,
+          "answer_text": "Բացակայում է դողի անվահեցի ամրացման հեղյուսներից թեկուզ մեկը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321881,
+          "answer_text": "Երկու դեպքում էլ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321573,
+      "question_text": "Ի՞նչ են ցույց տալիս նշված ճանապարհային նշանները։",
+      "image": "baaabbd5-47c5-4556-b57a-15e1ecc308a0.png",
+      "image_local_path": "scraped_data/images/20/baaabbd5-47c5-4556-b57a-15e1ecc308a0.png",
+      "answers": [
+        {
+          "answer_id": 322280,
+          "answer_text": "Նորոգման աշխատանքների պատճառով կողնակ մուտք գործելը վտանգավոր է։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322281,
+          "answer_text": "Ճանապարհին իրականացվում են վերանորոգման",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321598,
+      "question_text": "Հետադարձ կատարել նշված գոտուց",
+      "image": "50882d04-160d-420d-b024-651f49b0eedc.png",
+      "image_local_path": "scraped_data/images/20/50882d04-160d-420d-b024-651f49b0eedc.png",
+      "answers": [
+        {
+          "answer_id": 322349,
+          "answer_text": "Թույլատրվում",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322350,
+          "answer_text": "Արգելվում է ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321566,
+      "question_text": "Ի՞նչ են ցույց տալիս նշված ճանապարհային նշանները։",
+      "image": "809b7feb-f373-46c1-ab19-8ebf7c6466b3.png",
+      "image_local_path": "scraped_data/images/20/809b7feb-f373-46c1-ab19-8ebf7c6466b3.png",
+      "answers": [
+        {
+          "answer_id": 322260,
+          "answer_text": "Ցուցանակի ազդեցության գոտում վարորդները պետք է երթեւեկեն նշանի վրա ցույց տրվածից ավելի բարձր արագությամբ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322261,
+          "answer_text": "Ցուցանակի ազդեցության գոտում վարորդներին առաջարկվում է երթեւեկել նշանի վրա ցույց տրված արագությամբ։ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321728,
+      "question_text": "Ո՞ր տրանսպորտային միջոցն ունի առաջնահերթ երթեւեկության իրավունք։",
+      "image": "33683f54-192f-4923-a489-0465f8a8e5c3.png",
+      "image_local_path": "scraped_data/images/20/33683f54-192f-4923-a489-0465f8a8e5c3.png",
+      "answers": [
+        {
+          "answer_id": 322730,
+          "answer_text": "Կարմիր ավտոմոբիլը, քանի որ մուտք է գործում շրջանաձեւ երթեւեկությամբ խաչմերուկ կապույտ ավտոմոբիլի աջ կողմից։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322731,
+          "answer_text": "Կապույտ ավտոմոբիլը, քանի որ երթեւեկում է շրջանաձեւ երթեւեկությամբ ճանապարհով։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321789,
+      "question_text": "Ո՞վ առաջինը կանցնի խաչմերուկը",
+      "image": "7ab1efa2-6156-4fd6-b88b-6b72f9ab92aa.png",
+      "image_local_path": "scraped_data/images/20/7ab1efa2-6156-4fd6-b88b-6b72f9ab92aa.png",
+      "answers": [
+        {
+          "answer_id": 322896,
+          "answer_text": "Բեռնատարի վարորդը",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322897,
+          "answer_text": "Տրոլեյբուսի վարորդը",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322898,
+          "answer_text": "Կանոններն այս դեպքը չեն կանոնակարգում: Վարորդները կանցնեն փոխադարձ հարգանք ցուցաբերելով: ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321914,
+      "question_text": "Լուսացույցի կանաչ ազդանշանին պատկերված սլաքները տեղեկացնում են",
+      "image": "03149a03-8ce3-4112-9bf2-9f2918dfd6b7.png",
+      "image_local_path": "scraped_data/images/20/03149a03-8ce3-4112-9bf2-9f2918dfd6b7.png",
+      "answers": [
+        {
+          "answer_id": 323242,
+          "answer_text": "Աջ շրջադարձն արգելված է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323243,
+          "answer_text": "Աջ ուղղությամբ երթևեկությունը կարգավորվում է լրացուցիչ սեկցիայով: ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321873,
+      "question_text": "Աջ շրջադարձի դեպքում վարորդը պարտավոր է ճանապարհը զիջել`",
+      "image": "9dd2c9d6-210a-411e-bc1e-94363064f41d.png",
+      "image_local_path": "scraped_data/images/20/9dd2c9d6-210a-411e-bc1e-94363064f41d.png",
+      "answers": [
+        {
+          "answer_id": 323139,
+          "answer_text": "Միայն հեծանվորդին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323140,
+          "answer_text": "Միայն հետիոտներին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323141,
+          "answer_text": "Հետիոտներին եւ հեծանվորդին։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323142,
+          "answer_text": "Կարող է շարունակել երթեւեկությունն առանց կանգ առնելու։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 322042,
+      "question_text": "Ի՞նչ է ցույց տալիս ընդհատվող գծանշումը",
+      "image": "b922b5a8-074d-4dc1-8fed-b6dd279b2799.png",
+      "image_local_path": "scraped_data/images/20/b922b5a8-074d-4dc1-8fed-b6dd279b2799.png",
+      "answers": [
+        {
+          "answer_id": 323630,
+          "answer_text": "Կողնակին կանգառ կատարելու իրավունքը",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323631,
+          "answer_text": "Երթևեկելի մասի եզրերը երկգոտի ճանապարհին",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323632,
+          "answer_text": "Կողնակով երթևեկելու իրավունքը",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": "  "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 321996,
+      "question_text": "Կայանումն արգելվում է",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323496,
+          "answer_text": "Երկաթուղային գծանցում ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323497,
+          "answer_text": "Երկաթուղային գծանցում և 50մ գծանցին մոտ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323498,
+          "answer_text": "Երկաթուղային գծանցում և 50մ գծանցից առաջ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 322070,
+      "question_text": "Թույլատրվու՞մ է արդյոք մերձքաղաքային, միջմարզային եւ միջքաղաքային ավտոբուսների վարորդներին բնակավայրերում գերազանցել 60 կմ/ժ արագությունը։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323719,
+          "answer_text": "Թույլատրվում է` միայն միեւնույն ուղղությամբ երկու եւ ավելի գոտի ունեցող ճանապարհներին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323720,
+          "answer_text": "Թույլատրվում է։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323721,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322115,
+      "question_text": "Թույլատրվու՞մ է ուղեւորների փոխադրումը ավտոբուսի սրահում տվյալ իրավիճակում։",
+      "image": "2541db53-4a30-45c7-8311-0ea5a7ac955f.png",
+      "image_local_path": "scraped_data/images/20/2541db53-4a30-45c7-8311-0ea5a7ac955f.png",
+      "answers": [
+        {
+          "answer_id": 323867,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323868,
+          "answer_text": "Թույլատրվում է։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323869,
+          "answer_text": "Թույլատրվում է նստատեղերի քանակին համապատասխան։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322320,
+      "question_text": "Ձախ շրջադարձ կատարելիս",
+      "image": "ad0d14bc-ebee-4b1e-8c41-c7211d03b9ce.png",
+      "image_local_path": "scraped_data/images/20/ad0d14bc-ebee-4b1e-8c41-c7211d03b9ce.png",
+      "answers": [
+        {
+          "answer_id": 324483,
+          "answer_text": "Խաչմերուկն առաջինը կանցնեք",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324484,
+          "answer_text": "Կզիջեք միայն ոստիկանության ավտոմոբիլի վարորդին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324485,
+          "answer_text": "Կզիջեք բոլոր վարորդներին",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322269,
+      "question_text": "Ինչի՞ մասին է տեղեկացնում թեթեւ մարդատար ավտոմոբիլի վարորդի կողմից ձեռքով տրված ազդանշանը։",
+      "image": "0b5e6936-e764-4285-bf38-4413a2d22a33.png",
+      "image_local_path": "scraped_data/images/20/0b5e6936-e764-4285-bf38-4413a2d22a33.png",
+      "answers": [
+        {
+          "answer_id": 324346,
+          "answer_text": "Շրջադարձ է կատարում դեպի աջ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324347,
+          "answer_text": "Շարունակում է երթեւեկությունը ուղիղ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324348,
+          "answer_text": "Արգելակում է։ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322217,
+      "question_text": "Վերջույթների փափուկ հյուսվածքների փակ վնասվածքների դեպքում առաջին ժամերին օգնություն ցուցաբերելիս պետք է",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324176,
+          "answer_text": "Վնասվածքին տաքացնող թրջոց դնել։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324177,
+          "answer_text": "Վնասված մասի վրա սառը թրջոց դնել եւ բարձրացնել։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324178,
+          "answer_text": "Վնասված մասի վրա սառը թրջոց դնել եւ պահել սրտի մակարդակից ցածր։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324179,
+          "answer_text": "Վնասվածքին սպիրտային թրջոց դնել։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

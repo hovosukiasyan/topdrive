@@ -1,0 +1,544 @@
+{
+  "test_number": 40,
+  "test_id": 321313,
+  "title": "Թեստ 40",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321295,
+      "question_text": "Հետադարձը նշված վայրում",
+      "image": "903f978b-7a9d-44e6-82d1-7611dc8bb6a1.png",
+      "image_local_path": "scraped_data/images/40/903f978b-7a9d-44e6-82d1-7611dc8bb6a1.png",
+      "answers": [
+        {
+          "answer_id": 321450,
+          "answer_text": "Թույլատրվում է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321451,
+          "answer_text": "Թույլատրվում է, եթե չի խոչընդոտում ընդհանուր օգտագործման տրանսպորտային միջոցների վարորդներին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321452,
+          "answer_text": "Արգելվում է",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321223,
+      "question_text": "Թույլատրվու՞մ է արդյոք տվյալ իրադրությունում կարմիր ավտոմոբիլի վարորդին շարունակել երթեւեկությունը։",
+      "image": "eda79c93-599e-47fa-b086-96a8cec07be5.png",
+      "image_local_path": "scraped_data/images/40/eda79c93-599e-47fa-b086-96a8cec07be5.png",
+      "answers": [
+        {
+          "answer_id": 321264,
+          "answer_text": "Թույլատրվում է։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321265,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321230,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի վարորդն ունի առաջնահերթ երթեւեկության իրավունք։",
+      "image": "de927070-282f-4e29-8d40-dc11335f21f2.png",
+      "image_local_path": "scraped_data/images/40/de927070-282f-4e29-8d40-dc11335f21f2.png",
+      "answers": [
+        {
+          "answer_id": 321286,
+          "answer_text": "Բեռնատար ավտոմոբիլի վարորդը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321287,
+          "answer_text": "Ավտոբուսի վարորդը։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321750,
+      "question_text": "Տրանսպորտային միջոցները խաչմերուկը կանցնեն հետեւյալ հերթականությամբ՝",
+      "image": "6220642b-c834-4b2d-bb1d-6204f369bb56.png",
+      "image_local_path": "scraped_data/images/40/6220642b-c834-4b2d-bb1d-6204f369bb56.png",
+      "answers": [
+        {
+          "answer_id": 322789,
+          "answer_text": "Բեռնատար ավտոմոբիլը, թեթեւ մարդատար ավտոմոբիլը, ավտոբուսը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322790,
+          "answer_text": "Ավտոբուսը, բեռնատար ավտոմոբիլը, թեթեւ մարդատար ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322791,
+          "answer_text": "Ավտոբուսը, թեթեւ մարդատար ավտոմոբիլը, բեռնատար ավտոմոբիլը։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": "  "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321335,
+      "question_text": "Թույլատրվա՞ծ է հետընթացն այս իրավիճակում",
+      "image": "ff3b5336-d827-4969-826e-0264b20e287f.png",
+      "image_local_path": "scraped_data/images/40/ff3b5336-d827-4969-826e-0264b20e287f.png",
+      "answers": [
+        {
+          "answer_id": 321554,
+          "answer_text": "Արգելվում է",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321555,
+          "answer_text": "Թույլատրվում է մինչև հետիոտնային անցումը",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321698,
+      "question_text": "Խաչմերուկը երկրորդը կանցնի՝",
+      "image": "56547d12-5a07-4658-80f1-4054cb52de36.png",
+      "image_local_path": "scraped_data/images/40/56547d12-5a07-4658-80f1-4054cb52de36.png",
+      "answers": [
+        {
+          "answer_id": 322644,
+          "answer_text": "Կապույտ ավտոմոբիլը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322645,
+          "answer_text": "Կանաչ ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322646,
+          "answer_text": "Կարմիր ավտոմոբիլը։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321565,
+      "question_text": "Ի՞նչ են ցույց տալիս նշված ճանապարհային նշանները։",
+      "image": "e7559dd9-e61b-4ae6-8949-720526a95cf6.png",
+      "image_local_path": "scraped_data/images/40/e7559dd9-e61b-4ae6-8949-720526a95cf6.png",
+      "answers": [
+        {
+          "answer_id": 322258,
+          "answer_text": "Գլխավոր ճանապարհը շարունակվում է խաչմերուկից դեպի ձախ։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322259,
+          "answer_text": "Գլխավոր ճանապարհը շարունակվում է խաչմերուկից ուղիղ եւ դեպի ձախ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321615,
+      "question_text": "Ո՞ր նշանների ազդեցությունն է տարածվում շարժման ուղղությամբ մինչև մոտակա խաչմերուկը",
+      "image": "012bc1bf-cb4a-40a8-ae01-04518f46f82e.png",
+      "image_local_path": "scraped_data/images/40/012bc1bf-cb4a-40a8-ae01-04518f46f82e.png",
+      "answers": [
+        {
+          "answer_id": 322398,
+          "answer_text": "Ա և Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322399,
+          "answer_text": "Բ և Դ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322400,
+          "answer_text": "Գ և Դ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321670,
+      "question_text": "Ո՞ր դեպքում է նշված հետադարձի համար գոտու երկարությունը",
+      "image": "c71208b7-3da3-49f9-9451-4c777e7a8176.png",
+      "image_local_path": "scraped_data/images/40/c71208b7-3da3-49f9-9451-4c777e7a8176.png",
+      "answers": [
+        {
+          "answer_id": 322563,
+          "answer_text": "Ա",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322564,
+          "answer_text": "Միայն Բ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322565,
+          "answer_text": "Ա և Բ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321692,
+      "question_text": "Խաչմերուկը վերջինը կանցնի՝",
+      "image": "c1b7fdbc-6aea-476b-86be-5ed17ef33c63.png",
+      "image_local_path": "scraped_data/images/40/c1b7fdbc-6aea-476b-86be-5ed17ef33c63.png",
+      "answers": [
+        {
+          "answer_id": 322627,
+          "answer_text": "Կապույտ ավտոմոբիլը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322628,
+          "answer_text": "Կանաչ ավտոմոբիլը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322629,
+          "answer_text": "Կարմիր ավտոմոբիլը։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321814,
+      "question_text": "Այս խաչմերուկում",
+      "image": "aedd7d45-765c-42d7-a033-d2e4d01a2ff1.png",
+      "image_local_path": "scraped_data/images/40/aedd7d45-765c-42d7-a033-d2e4d01a2ff1.png",
+      "answers": [
+        {
+          "answer_id": 322964,
+          "answer_text": "Կզիջեք ճանապարհը",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322965,
+          "answer_text": "Կանցնեք առաջինը",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321882,
+      "question_text": "Զիջել ճանապարհը տրամվայի վարորդին այս իրավիճակում",
+      "image": "26437973-a9ae-4945-bb79-7ecb9e383ac4.png",
+      "image_local_path": "scraped_data/images/40/26437973-a9ae-4945-bb79-7ecb9e383ac4.png",
+      "answers": [
+        {
+          "answer_id": 323164,
+          "answer_text": "Պարտավոր չեք",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323165,
+          "answer_text": "Պարտավոր եք",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321902,
+      "question_text": "Լուսացույցի թույլատրող ազդանշանի միանալուց հետո մուտք գործել խաչմերուկ կարող ենք",
+      "image": "d5785ed8-26aa-4a5b-ae80-edeec6ebffc0.png",
+      "image_local_path": "scraped_data/images/40/d5785ed8-26aa-4a5b-ae80-edeec6ebffc0.png",
+      "answers": [
+        {
+          "answer_id": 323214,
+          "answer_text": "Միայն հետադարձ կամ շրջադարձ կատարելու դեպքում",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323215,
+          "answer_text": "Բոլոր դեպքերում",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 321975,
+      "question_text": "Որտե՞ղ պետք է կանգ առնի վարորդը տվյալ իրավիճակում։",
+      "image": "01a2776c-c234-4e9f-9299-aef996848478.png",
+      "image_local_path": "scraped_data/images/40/01a2776c-c234-4e9f-9299-aef996848478.png",
+      "answers": [
+        {
+          "answer_id": 323437,
+          "answer_text": "Կանգառը պարտադիր չէ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323438,
+          "answer_text": "Լուսացույցի առջեւ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323439,
+          "answer_text": "«Կանգ-գիծ» գծանշման առջեւ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323440,
+          "answer_text": "Երթեւեկելի գոտիների հատման առջեւ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 321951,
+      "question_text": "Ի՞նչ է ցույց տալիս ընդհատվող լայն գծի տեսքով գծանշումը։",
+      "image": "0c89e88d-0d03-4e4d-9d8a-09cd34b7a551.png",
+      "image_local_path": "scraped_data/images/40/0c89e88d-0d03-4e4d-9d8a-09cd34b7a551.png",
+      "answers": [
+        {
+          "answer_id": 323353,
+          "answer_text": "Երթեւեկելի մասի եւ կողնակի միջեւ առկա սահմանը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323354,
+          "answer_text": "Երթեւեկելի մասի հիմնական գոտու եւ թափառքի գոտու միջեւ առկա սահմանը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323355,
+          "answer_text": "Երթեւեկելի մասի հիմնական գոտու եւ արգելակման գոտու միջեւ առկա սահմանը։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 322106,
+      "question_text": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում միջքաղաքային փոխադրումներ իրականացնող ավտոբուսների երթեւեկությունը բնակավայրերից դուրս`",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323841,
+          "answer_text": "60 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323842,
+          "answer_text": "70 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323843,
+          "answer_text": "90 կմ/ժ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322114,
+      "question_text": "Ի՞նչ արագությամբ կարող է շարունակել երթեւեկությունը ավտոբուսի վարորդը տվյալ ճանապարհային նշանով նշված գոտում։",
+      "image": "5a37bdf1-e07e-42d3-8096-3ccf009067c9.png",
+      "image_local_path": "scraped_data/images/40/5a37bdf1-e07e-42d3-8096-3ccf009067c9.png",
+      "answers": [
+        {
+          "answer_id": 323864,
+          "answer_text": "60 կմ/ժ-ից պակաս։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323865,
+          "answer_text": "Ոչ պակաս 60 կմ/ժ, բայց ոչ ավելի քան 70 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323866,
+          "answer_text": "Ոչ պակաս 60 կմ/ժ բայց ոչ ավելի քան 90 կմ/ժ։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322264,
+      "question_text": "Կարելի՞ է նշված հետագծով երթեւեկելու համար ձեռքով տալ նախազգուշացնող ազդանշան։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324332,
+          "answer_text": "Կարելի է, եթե անսարք է շրջադարձի ցուցիչը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324333,
+          "answer_text": "Կարելի, եթե անսարք է շրջադարձի ցուցիչը` օրվա լուսավոր ժամերին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324334,
+          "answer_text": "Կարելի է բոլոր դեպքերում։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322272,
+      "question_text": "Ինչի՞ մասին է տեղեկացնում թեթեւ մարդատար ավտոմոբիլի վարորդի կողմից ձեռքով տրված ազդանշանը։",
+      "image": "86be5e81-5881-4ffe-96cc-3e6c76a6bbd2.png",
+      "image_local_path": "scraped_data/images/40/86be5e81-5881-4ffe-96cc-3e6c76a6bbd2.png",
+      "answers": [
+        {
+          "answer_id": 324354,
+          "answer_text": "Աջ շրջադարձ է կատարում",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324355,
+          "answer_text": "Շարունակում է երթեւեկությունը ուղիղ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324356,
+          "answer_text": "Արգելակում է` ճանապարհը մոտոցիկլին զիջելու համար։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322215,
+      "question_text": "Ի՞նչ պետք է անել այրվածքի դեպքում օգնություն ցուցաբերելիս։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324169,
+          "answer_text": "Թողնել այրվածքը բաց։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324170,
+          "answer_text": "Բացել հեղուկով լցված բշտերը, ապա ամուր վիրակապել։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324171,
+          "answer_text": "Ձեթ քսել այրվածքի վրա։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324172,
+          "answer_text": "Սառեցնել այրվածքը ջրով, ապա ծածկել ստերիլ վիրակապական նյութերով կամ մաքուր գործվածքներով։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

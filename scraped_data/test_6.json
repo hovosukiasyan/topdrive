@@ -1,0 +1,569 @@
+{
+  "test_number": 6,
+  "test_id": 321279,
+  "title": "Թեստ 6",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321232,
+      "question_text": "Եթե համապատասխան նշաններով կահավորված երկայնական թեքությամբ ճանապարհահատվածներում հանդիպակաց երթեւեկությունը դժվարացած է, ապա ճանապարհը պետք է զիջել՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321291,
+          "answer_text": "Վայրէջքի ուղղությամբ ընթացող տրանսպորտային միջոցին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321292,
+          "answer_text": "Ընդհանուր օգտագործման տրանսպորտային միջոցին։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321293,
+          "answer_text": "Վերելքի ուղղությամբ ընթացող տրանսպորտային միջոցին։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321300,
+      "question_text": "Պարտավոր է՞ վարորդը վերադասավորվել աջ գոտի և նոր միայն կատարել աջ շրջադարձն այս իրավիճակում",
+      "image": "ead2acfb-18fd-4e5d-bafd-531bd1bc50f6.png",
+      "image_local_path": "scraped_data/images/6/ead2acfb-18fd-4e5d-bafd-531bd1bc50f6.png",
+      "answers": [
+        {
+          "answer_id": 321464,
+          "answer_text": "Այո",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321465,
+          "answer_text": "Ոչ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321364,
+      "question_text": "«Ճանապարհային երթեւեկության անվտանգության ապահովման մասին» ՀՀ օրենքի համաձայն՝ տրանսպորտային միջոցի գործնական վարման սկզբնական ուսուցումը իրականացվում է՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321631,
+          "answer_text": "Բնակավայրերից դուրս` ճանապարհներին` հաշվի առնելով տրանսպորտային միջոցների երթեւեկության ինտենսիվությունը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321632,
+          "answer_text": "Փակ հրապարակում կամ ավտոդրոմում։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321633,
+          "answer_text": "Ցանկացած ճանապարհին (բացառությամբ ավտոմայրուղիների)` հաշվի առնելով տրանսպորտային միջոցների երթեւեկության ինտենսիվությունը։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321379,
+      "question_text": "«Ճանապարհային երթեւեկության անվտանգության ապահովման մասին» ՀՀ օրենքի համաձայն՝ ճանապարհային երթեւեկությանը մասնակցող տրանսպորտային միջոցը տեխնիկապես սարքին վիճակում պահպանելու համար պատասխանատվություն կրում է՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321672,
+          "answer_text": "Տրանսպորտային միջոցի սեփականատերը կամ օգտագործողը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321673,
+          "answer_text": "Տրանսպորտային միջոցը վաճառած կազմակերպությունը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321674,
+          "answer_text": "Տրանսպորտային միջոցի՝ վերջին տարեկան տեխնիկական զննությունն իրականացրած կազմակերպությունը։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321675,
+          "answer_text": "Թվարկած բոլոր անձինք եւ կազմակերպությունները։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321485,
+      "question_text": "Ավտոբուսների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321967,
+          "answer_text": "Չի աշխատում կանգառ կատարելու պահանջի ազդանշանը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321968,
+          "answer_text": "Հետևի մասում տեղադրված են կարմիր գույնի լույսերով շրջադարձի ցուցիչներ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321969,
+          "answer_text": "Երկու դեպքում էլ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321453,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321873,
+          "answer_text": "Մեխանիկական տրանսպորտային միջոցը, որով իրականացվում է գործնական վարման ուսուցում, չունի համապատասխան ճանաչման նշան։ ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321874,
+          "answer_text": "Չի աշխատում վառելիքի մակարդակի ցուցիչը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321875,
+          "answer_text": "Երկու դեպքում էլ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321647,
+      "question_text": "Այս դեպքում նվազագույնը որքա՞ն հետո կարող է հանդիպել հավասարազոր խաչմերուկը",
+      "image": "a0512300-de73-471a-a15e-a570ebd065ba.png",
+      "image_local_path": "scraped_data/images/6/a0512300-de73-471a-a15e-a570ebd065ba.png",
+      "answers": [
+        {
+          "answer_id": 322492,
+          "answer_text": "100 մետր",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322493,
+          "answer_text": "150 մետր",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322494,
+          "answer_text": "50 մետր",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321562,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի երթեւեկությունն է արգելում այս ճանապարհային նշանը։",
+      "image": "b6c6d914-92e9-43f2-9f1e-0a763160cfb6.png",
+      "image_local_path": "scraped_data/images/6/b6c6d914-92e9-43f2-9f1e-0a763160cfb6.png",
+      "answers": [
+        {
+          "answer_id": 322246,
+          "answer_text": "Մեխանիկական տրանսպորտային միջոցների։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322247,
+          "answer_text": "Միայն ավտոմոբիլների։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322248,
+          "answer_text": "Միայն թեթեւ մարդատար ավտոմոբիլների։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321643,
+      "question_text": "Նշաններից ո՞րն է արգելում հետադարձը",
+      "image": "1783c88e-694b-43f1-a027-30e850b18048.png",
+      "image_local_path": "scraped_data/images/6/1783c88e-694b-43f1-a027-30e850b18048.png",
+      "answers": [
+        {
+          "answer_id": 322480,
+          "answer_text": "Միայն Ա",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322481,
+          "answer_text": "Միայն Ա և Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322482,
+          "answer_text": "Ոչ մեկը ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321822,
+      "question_text": "Ո՞ր նկարում է պատկերված գլխավոր ճանապարհ",
+      "image": "66936c6d-854e-4f7f-b3d4-0caf892f4868.png",
+      "image_local_path": "scraped_data/images/6/66936c6d-854e-4f7f-b3d4-0caf892f4868.png",
+      "answers": [
+        {
+          "answer_id": 322986,
+          "answer_text": "Միայն աջ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322987,
+          "answer_text": "Աջ և ներքևի",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322988,
+          "answer_text": "Բոլոր",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321701,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի վարորդը պետք է զիջի ճանապարհը։",
+      "image": "bd1cee86-cb92-4f39-b052-aa4fda476de8.png",
+      "image_local_path": "scraped_data/images/6/bd1cee86-cb92-4f39-b052-aa4fda476de8.png",
+      "answers": [
+        {
+          "answer_id": 322654,
+          "answer_text": "Հեծանվորդը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322655,
+          "answer_text": "Ավտոմոբիլի վարորդը։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321830,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի վարորդը պետք է զիջի ճանապարհը՝",
+      "image": "695e7097-aa06-45f0-ab7b-a8767a370c34.png",
+      "image_local_path": "scraped_data/images/6/695e7097-aa06-45f0-ab7b-a8767a370c34.png",
+      "answers": [
+        {
+          "answer_id": 323013,
+          "answer_text": "Մոտոցիկլի վարորդը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323014,
+          "answer_text": "Ավտոմոբիլի վարորդը։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": "  ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321841,
+      "question_text": "Ո՞ր նկարում է վարորդը ճիշտ կատարում շրջադարձը։",
+      "image": "dd44a825-907c-4282-ac31-64be3c2cf163.png",
+      "image_local_path": "scraped_data/images/6/dd44a825-907c-4282-ac31-64be3c2cf163.png",
+      "answers": [
+        {
+          "answer_id": 323044,
+          "answer_text": "Ձախ նկարում։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323045,
+          "answer_text": "Աջ նկարում։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 321994,
+      "question_text": "Նշվածներից ո՞ր դեպքում է թույլատրվում կանգառ կատարել",
+      "image": "aaa678a3-00b9-44d1-9191-7c8517249d78.png",
+      "image_local_path": "scraped_data/images/6/aaa678a3-00b9-44d1-9191-7c8517249d78.png",
+      "answers": [
+        {
+          "answer_id": 323489,
+          "answer_text": "Միայն Բ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323490,
+          "answer_text": "Միայն Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323491,
+          "answer_text": "Ա և Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323492,
+          "answer_text": "Բոլոր դեպքերում:",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 322038,
+      "question_text": "Այս եռանկյունաձև գծանշումը տեղեկացնում է",
+      "image": "36c791df-4ced-43eb-b8f5-ccfae0eb4d91.png",
+      "image_local_path": "scraped_data/images/6/36c791df-4ced-43eb-b8f5-ccfae0eb4d91.png",
+      "answers": [
+        {
+          "answer_id": 323620,
+          "answer_text": "Վտանգավոր շրջադարձին մոտենալու մասին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323621,
+          "answer_text": "Ճանապարհը զիջելու տեղին մոտենալու մասին",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323622,
+          "answer_text": "Մեքենան կանգնեցնելու տեղին մոտենալու մասին",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 322094,
+      "question_text": "Թույլատրվու՞մ է արդյոք մարդկանց փոխադրումը բեռնատար կցորդում։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323807,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323808,
+          "answer_text": "Թույլատրվում է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323809,
+          "answer_text": "Թույլատրվում է՝ միայն բեռն ուղեկցող անձանց։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322087,
+      "question_text": "Ի՞նչ առավելագույն արագությամբ է թույլատրվում կցորդ քարշակող թեթեւ մարդատար ավտոմոբիլների երթեւեկությունն ավտոմայրուղիներով երթեւեկելիս։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323781,
+          "answer_text": "110 կմ/ժ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323782,
+          "answer_text": " 100 կմ/ժ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323783,
+          "answer_text": "90 կմ/ժ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323784,
+          "answer_text": "80 կմ/ժ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323785,
+          "answer_text": "70 կմ/ժ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322151,
+      "question_text": "Վարորդի կողմից ձեռքով տրվող նախազգուշացնող ազդանշանը դադարեցվում է`",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323980,
+          "answer_text": "Մանեւրն սկսելուց անմիջապես առաջ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323981,
+          "answer_text": "Մանեւրն ավարտելուց անմիջապես հետո։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323982,
+          "answer_text": "Մանեւրը կատարելու ժամանակ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322299,
+      "question_text": "Ազդանշան տալը երթևեկության մյուս մասնակիցների նկատմամբ առավելություն",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324428,
+          "answer_text": "Տալիս է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324429,
+          "answer_text": "Չի տալիս",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324430,
+          "answer_text": "Տալիս է միայն շարժում սկսելիս",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322246,
+      "question_text": "Վտանգավոր վերքերի մշակման ժամանակ պետք է.",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324277,
+          "answer_text": "Լվանալ վերքը օճառով եւ մաքուր ջրով",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324278,
+          "answer_text": "Մշակել վերքը սպիրտային հիմքով նյութերով (յոդ, օղի, օծանելիք եւ այլն)։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324279,
+          "answer_text": "Դադարեցնել արյունահոսությունը եւ վիրակապել վերքը։",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}

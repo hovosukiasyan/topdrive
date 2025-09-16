@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="hy">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Արդյունքներ - Results</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="results-body">
+    <!-- Results Header -->
+    <header class="results-header">
+        <div class="container">
+            <div class="results-header-content">
+                <div class="results-title-section">
+                    <h1>Քննության արդյունքներ</h1>
+                    <p class="test-title" id="testTitleHeader">Թեստ 1</p>
+                </div>
+                <button class="btn btn-primary" id="backToTests">Վերադառնալ թեստերին</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Results Content -->
+    <main class="results-main">
+        <div class="container">
+            <!-- Test Info Section (for print) -->
+            <section class="test-info-print">
+                <div class="test-info-card">
+                    <h2 id="testTitlePrint">Թեստ 1</h2>
+                    <div class="test-details">
+                        <span>Տպված: <span id="printDate"></span></span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Score Summary -->
+            <section class="score-summary" id="scoreSummary">
+                <div class="score-card">
+                    <div class="score-icon" id="scoreIcon">
+                        <!-- Icon will be added dynamically -->
+                    </div>
+                    <div class="score-content">
+                        <h2 id="scoreTitle">Քննությունը հաջողությամբ ավարտված է!</h2>
+                        <div class="score-details">
+                            <div class="score-item">
+                                <span class="score-label">Ընդհանուր գնահատական</span>
+                                <span class="score-value" id="totalScore">18/20</span>
+                            </div>
+                            <div class="score-item">
+                                <span class="score-label">Ճիշտ պատասխաններ</span>
+                                <span class="score-value correct" id="correctAnswers">18</span>
+                            </div>
+                            <div class="score-item">
+                                <span class="score-label">Սխալ պատասխաններ</span>
+                                <span class="score-value incorrect" id="incorrectAnswers">2</span>
+                            </div>
+                            <div class="score-item">
+                                <span class="score-label">Ծախսված ժամանակ</span>
+                                <span class="score-value" id="timeSpent">23:45</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Filter Controls -->
+            <section class="results-filters">
+                <div class="filter-tabs">
+                    <button class="filter-tab active" data-filter="all">Բոլոր հարցերը</button>
+                    <button class="filter-tab" data-filter="correct">Ճիշտ պատասխաններ</button>
+                    <button class="filter-tab" data-filter="incorrect">Սխալ պատասխաններ</button>
+                    <button class="filter-tab" data-filter="unanswered">Չպատասխանված</button>
+                </div>
+            </section>
+
+            <!-- Detailed Results -->
+            <section class="detailed-results">
+                <div class="results-list" id="resultsList">
+                    <!-- Detailed results will be added here -->
+                </div>
+            </section>
+
+            <!-- Actions -->
+            <section class="results-actions">
+                <div class="action-buttons">
+                    <button class="btn btn-secondary" id="retakeTest">նորից անցնել թեստը</button>
+                    <button class="btn btn-primary" id="nextTest">Հաջորդ թեստը</button>
+                    <button class="btn btn-outline" id="printResults">Տպել արդյունքները</button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="js/utils.js"></script>
+    <script src="js/results.js"></script>
+</body>
+</html>

@@ -1,0 +1,554 @@
+{
+  "test_number": 7,
+  "test_id": 321280,
+  "title": "Թեստ 7",
+  "duration": 30,
+  "max_wrong_answers": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_id": 321351,
+      "question_text": "Թույլատրվո՞ւմ է հետընթացով մոտենալ ուղևորին",
+      "image": "b03c6f73-3e20-491c-a0d1-0c90f9a54694.png",
+      "image_local_path": "scraped_data/images/7/b03c6f73-3e20-491c-a0d1-0c90f9a54694.png",
+      "answers": [
+        {
+          "answer_id": 321595,
+          "answer_text": "Այո",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321596,
+          "answer_text": "Ոչ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 2,
+      "question_id": 321217,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի վարորդն է ճիշտ կատարում հետադարձը։",
+      "image": "2c7c4950-0861-447a-aff1-260cae420ddf.png",
+      "image_local_path": "scraped_data/images/7/2c7c4950-0861-447a-aff1-260cae420ddf.png",
+      "answers": [
+        {
+          "answer_id": 321252,
+          "answer_text": "Կապույտ ավտոմոբիլի վարորդը։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321253,
+          "answer_text": "Կարմիր ավտոմոբիլի վարորդը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321254,
+          "answer_text": "Երկու վարորդներն էլ։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 3,
+      "question_id": 321373,
+      "question_text": "«Ճանապարհային երթեւեկության անվտանգության ապահովման մասին» ՀՀ օրենքի համաձայն՝ հետիոտներին են հավասարեցվում՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321656,
+          "answer_text": "Առանց շարժիչի հաշմանդամային սայլակներով տեղաշարժվող հաշմանդամները։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321657,
+          "answer_text": "Բեռնասայլակ, սահնակ, մանկասայլակ կամ հաշմանդամային սայլակ քաշող (հրող) անձինք։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321658,
+          "answer_text": "Թվարկած բոլոր անձինք։ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 4,
+      "question_id": 321359,
+      "question_text": "«Ճանապարհային երթեւեկության անվտանգության ապահովման մասին» ՀՀ օրենքի համաձայն՝ «BE» կարգի տրանսպորտային միջոցներ վարելու իրավունքի վկայական կարող է տրվել՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321616,
+          "answer_text": "17 տարին լրացած անձանց։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321617,
+          "answer_text": "18 տարին լրացած անձանց։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321618,
+          "answer_text": "19 տարին լրացած անձանց։ ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 5,
+      "question_id": 321477,
+      "question_text": "Ավտոբուսների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321943,
+          "answer_text": "Շարժիչն աշխատում է ընդհատումներով։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 321944,
+          "answer_text": "Դողերն ունեն անվադողի հենքը (կորդը) մերկացնող տեղային վնասվածքներ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321945,
+          "answer_text": "Երկու դեպքում էլ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 6,
+      "question_id": 321495,
+      "question_text": "Տրանսպորտային միջոցների շահագործումն արգելվում է, եթե՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 321998,
+          "answer_text": "անսարք է կամ բացակայում է կառուցվածքով նախատեսված ղեկային կառավարման ուժեղարարը",
+          "is_correct": true
+        },
+        {
+          "answer_id": 321999,
+          "answer_text": "չի աշխատում ձայնարկիչը",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322000,
+          "answer_text": "երկու դեպքում էլ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 7,
+      "question_id": 321658,
+      "question_text": "Ո՞ր հետագծով կարող եք շարունակել երթևեկությունը",
+      "image": "fc2450e2-4a1b-4935-b306-a4b235ca22ab.png",
+      "image_local_path": "scraped_data/images/7/fc2450e2-4a1b-4935-b306-a4b235ca22ab.png",
+      "answers": [
+        {
+          "answer_id": 322526,
+          "answer_text": "Միայն Ա",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322527,
+          "answer_text": "Միայն Բ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322528,
+          "answer_text": "Նշված երկու հետագծերով",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 8,
+      "question_id": 321609,
+      "question_text": "Որ նշանն է արագության սահմանափակում մտցնում",
+      "image": "b7ef78cd-e35e-48b5-800c-52b4d53f2e4b.png",
+      "image_local_path": "scraped_data/images/7/b7ef78cd-e35e-48b5-800c-52b4d53f2e4b.png",
+      "answers": [
+        {
+          "answer_id": 322380,
+          "answer_text": "1 և 3 ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322381,
+          "answer_text": "1 և 4",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322382,
+          "answer_text": "միայն 2-ը",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322383,
+          "answer_text": "2 և 3",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 9,
+      "question_id": 321646,
+      "question_text": "Ո՞ր նշաններից հետո է առանց թույլտվության երթևեկությունն արգելվում",
+      "image": "a0781be3-ef56-4fe2-8596-c86bce8aafef.png",
+      "image_local_path": "scraped_data/images/7/a0781be3-ef56-4fe2-8596-c86bce8aafef.png",
+      "answers": [
+        {
+          "answer_id": 322488,
+          "answer_text": "Միայն Ա և Դ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322489,
+          "answer_text": "Միայն Բ և Գ",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322490,
+          "answer_text": "Միայն Դ և Գ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 322491,
+          "answer_text": "Բոլոր",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 10,
+      "question_id": 321778,
+      "question_text": "Այս իրադրությունում զիջել պարտավոր ենք",
+      "image": "e6f7c272-d67f-4528-9910-805c609b25cf.png",
+      "image_local_path": "scraped_data/images/7/e6f7c272-d67f-4528-9910-805c609b25cf.png",
+      "answers": [
+        {
+          "answer_id": 322867,
+          "answer_text": "Երկու վարորդներին",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322868,
+          "answer_text": "Միայն հանդիպակացից մոտեցող բեռնատարին",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 11,
+      "question_id": 321708,
+      "question_text": "Ո՞ր տրանսպորտային միջոցի վարորդը պետք է զիջի ճանապարհը։",
+      "image": "46acfb80-b272-4ce9-838d-49035461f3d4.png",
+      "image_local_path": "scraped_data/images/7/46acfb80-b272-4ce9-838d-49035461f3d4.png",
+      "answers": [
+        {
+          "answer_id": 322675,
+          "answer_text": "Ավտոբուսի վարորդը։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 322676,
+          "answer_text": "Մոտոցիկլի վարորդը։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 12,
+      "question_id": 321917,
+      "question_text": "Մուտք գործել դարձափոխային երթևեկության գոտի այս իրավիճակում",
+      "image": "7c9385c2-b388-41d6-8ba5-d0af04f60d31.png",
+      "image_local_path": "scraped_data/images/7/7c9385c2-b388-41d6-8ba5-d0af04f60d31.png",
+      "answers": [
+        {
+          "answer_id": 323249,
+          "answer_text": "Թույլատրված է",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323250,
+          "answer_text": "Թույլատրված է միայն վազանց կատարելու նպատակով",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323251,
+          "answer_text": "Արգելված է ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 13,
+      "question_id": 321899,
+      "question_text": "Ո՞ր դեպքում կարող եք խաչմերուկն անցնել առանց ճանապարհն երթևեկության այլ մասնակցին զիջելու",
+      "image": "62e2d490-8b59-4e86-ac54-9d4f449af6fe.png",
+      "image_local_path": "scraped_data/images/7/62e2d490-8b59-4e86-ac54-9d4f449af6fe.png",
+      "answers": [
+        {
+          "answer_id": 323206,
+          "answer_text": "Ուղիղ անցնելու դեպքում",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323207,
+          "answer_text": "Աջ շրջադարձ կատարելիս",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323208,
+          "answer_text": "Ձախ շրջադարձ կատարելիս",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 14,
+      "question_id": 321929,
+      "question_text": "Տվյալ ճանապարհային գծանշումը թույլատրում է երթեւեկել`",
+      "image": "8657d086-7723-4f89-84d3-80f5682d9148.png",
+      "image_local_path": "scraped_data/images/7/8657d086-7723-4f89-84d3-80f5682d9148.png",
+      "answers": [
+        {
+          "answer_id": 323286,
+          "answer_text": "Միայն դեպի ձախ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323287,
+          "answer_text": "Դեպի ձախ եւ հակառակ ուղղությամբ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323288,
+          "answer_text": "Միայն հակառակ ուղղությամբ։",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323289,
+          "answer_text": "Ուղիղ, ձախ եւ հակառակ ուղղությամբ։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 15,
+      "question_id": 321988,
+      "question_text": "Թույլատրվո՞ւմ է կայանումն այս իրավիճակում",
+      "image": "c9c670e3-022f-495e-9032-e6f1fbace6e8.png",
+      "image_local_path": "scraped_data/images/7/c9c670e3-022f-495e-9032-e6f1fbace6e8.png",
+      "answers": [
+        {
+          "answer_id": 323473,
+          "answer_text": "Այո",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323474,
+          "answer_text": "Միայն օրվա լուսավոր ժամերին",
+          "is_correct": false
+        },
+        {
+          "answer_id": 323475,
+          "answer_text": "Ոչ",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 16,
+      "question_id": 322135,
+      "question_text": "Տրանսպորտային միջոցի կողքից` եզրաչափային լույսի արտաքին եզրից 0,5 մ դուրս ցցվելու դեպքում բեռը պետք է արդյո՞ք նշվի օրվա լուսավոր ժամերին «Մեծ եզրաչափերով բեռ» ճանաչման նշանով, իսկ օրվա մութ ժամանակ և անբավարար տեսանելիության պայմաններում, նաև` առջևից սպիտակ, իսկ հետևից` կարմիր գույնի լապտերիկներով կամ լուսանդրադարձիչով:",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323937,
+          "answer_text": "Այո",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323938,
+          "answer_text": "Ոչ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 17,
+      "question_id": 322104,
+      "question_text": "Թույլատրվու՞մ է արդյոք ավտոբուսներին բնակավայրերից դուրս երթեւեկել 70 կմ/ժ արագությամբ։",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 323836,
+          "answer_text": "Թույլատրվում է",
+          "is_correct": true
+        },
+        {
+          "answer_id": 323837,
+          "answer_text": "Արգելվում է։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 18,
+      "question_id": 322195,
+      "question_text": "Տրանսպորտային միջոցներով, որոնց արագությունը տեխնիկական բնութագրերից կամ վիճակից ելնելով չի գերազանցում 40 կմ/ժ, ավտոմայրուղիներով երթեւեկել՝",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324107,
+          "answer_text": "Թույլատրվում է` միայն աջ եզրային գոտիով։ ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324108,
+          "answer_text": "Արգելվում է։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324109,
+          "answer_text": "Թույլատրվում է` «Նվազագույն արագության սահմանափակում» նշանի բացակայության դեպքում։ ",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 19,
+      "question_id": 322273,
+      "question_text": "Ինչի՞ մասին է տեղեկացնում թեթեւ մարդատար ավտոմոբիլի վարորդի կողմից ձեռքով տրված ազդանշանը։",
+      "image": "4acd3a6d-74b0-4ebb-84c4-7a596e532847.png",
+      "image_local_path": "scraped_data/images/7/4acd3a6d-74b0-4ebb-84c4-7a596e532847.png",
+      "answers": [
+        {
+          "answer_id": 324357,
+          "answer_text": "Մտադիր է կատարել ձախ շրջադարձ կամ հետադարձ։",
+          "is_correct": true
+        },
+        {
+          "answer_id": 324358,
+          "answer_text": "Արգելակում է` ճանապարհը բեռնատար ավտոմոբիլին զիջելու համար։",
+          "is_correct": false
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    },
+    {
+      "question_number": 20,
+      "question_id": 322255,
+      "question_text": "Արդյո՞ք թույլատրվում է տուժածին դեղեր տալ առաջին բուժօգնություն ցուցաբերելու ժամանակ:",
+      "image": null,
+      "image_local_path": null,
+      "answers": [
+        {
+          "answer_id": 324304,
+          "answer_text": "Թույլատրվում է",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324305,
+          "answer_text": "Թույլատրվում է ծայրահեղ անհրաժեշտության դեպքում ",
+          "is_correct": false
+        },
+        {
+          "answer_id": 324306,
+          "answer_text": "Արգելվում է",
+          "is_correct": true
+        }
+      ],
+      "explanation": {
+        "title": " ",
+        "description": " "
+      }
+    }
+  ]
+}
