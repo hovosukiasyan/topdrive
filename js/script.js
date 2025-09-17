@@ -192,15 +192,19 @@ class TestSelectionApp {
     }
 
     startTest(testNumber) {
+        console.log("TestSelectionApp.startTest called with:", testNumber, typeof testNumber); // <-- Add this
         if (!Utils.ValidationUtils.isValidTestNumber(testNumber)) {
+            console.warn("Test number failed validation:", testNumber); // <-- Add this
             Utils.NotificationUtils.error('Անվավեր թեստի համար');
             return;
         }
 
         // Save test number for the quiz page (temporary, only for current session)
         sessionStorage.setItem('currentTestNumber', testNumber);
-        
+        console.log("Test number saved to sessionStorage:", testNumber); // <-- Add this
+
         // Navigate to quiz page
+        console.log("Navigating to quiz.html"); // <-- Add this
         window.location.href = 'quiz.html';
     }
 

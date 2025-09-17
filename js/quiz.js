@@ -611,8 +611,8 @@ class QuizApp {
     calculateResults() {
         const totalQuestions = this.testData.questions.length;
         let correctAnswers = 0;
-        let incorrectAnswers = 0;
-        let unansweredQuestions = [];
+        let incorrectAnswers = 0; // Incorrectly answered questions
+        let unansweredQuestions = []; // List of unanswered question numbers
         const questionResults = [];
 
         this.testData.questions.forEach((question, questionIndex) => {
@@ -633,33 +633,50 @@ class QuizApp {
                 if (questionResult.isCorrect) {
                     correctAnswers++;
                 } else {
-                    incorrectAnswers++;
+                    incorrectAnswers++; // Explicitly counted as incorrect
                 }
             } else {
                 unansweredQuestions.push(questionIndex + 1);
+                // Note: Not incrementing incorrectAnswers here directly in the counter,
+                // but we will consider them for the 'passed' calculation.
             }
 
             questionResults.push(questionResult);
         });
 
-        const timeSpent = this.testData.duration * 60 - this.timeRemaining;
-        const passed = incorrectAnswers <= this.testData.max_wrong_answers;
+        const timeSpentSeconds = this.testData.duration * 60 - this.timeRemaining;
 
-        return {
+
+        // Calculate effective incorrect answers (wrong answers + unanswered questions)
+        // This treats unanswered questions as if they were wrong for pass/fail.
+        const effectiveIncorrectAnswers = incorrectAnswers + unansweredQuestions.length;
+
+        // Determine if the user passed based on the effective incorrect count
+        // against the test's allowed maximum wrong answers.
+        const passed = effectiveIncorrectAnswers <= this.testData.max_wrong_answers;
+
+        // **** END REVISED PASSING LOGIC ****
+
+        const results = {
             testNumber: this.testNumber,
             testTitle: this.testData.title,
-            totalQuestions,
-            correctAnswers,
-            incorrectAnswers,
-            unansweredCount: unansweredQuestions.length,
-            unansweredQuestions,
-            passed,
-            timeSpent: Utils.TimeUtils.formatTime(timeSpent),
-            timeSpentSeconds: timeSpent,
-            maxWrongAnswers: this.testData.max_wrong_answers,
-            questionResults,
+            totalQuestions: totalQuestions,
+            correctAnswers: correctAnswers,
+            // Optionally, you could store incorrectAnswers and unansweredCount separately
+            // if needed elsewhere, but for 'passed' logic, effectiveIncorrectAnswers is key.
+            incorrectAnswers: incorrectAnswers, // Keep original count if needed for display
+            unansweredCount: unansweredQuestions.length, // Keep if needed for display
+            unansweredQuestions: unansweredQuestions, // Keep list if needed for display
+            passed: passed, // This is the crucial value that fixes the issue
+            timeSpent: Utils.TimeUtils.formatTime(timeSpentSeconds),
+            timeSpentSeconds: timeSpentSeconds,
+            maxWrongAnswers: this.testData.max_wrong_answers, // Keep for reference
+            // Potentially add effectiveIncorrectAnswers if you want to display it
+            // effectiveIncorrectAnswers: effectiveIncorrectAnswers,
+            questionResults: questionResults,
             completedAt: new Date().toISOString()
         };
+        return results;
     }
 
     stopTimer() {

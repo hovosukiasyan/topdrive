@@ -22,6 +22,7 @@
                         </span>
                     </div>
                 </div>
+                <img src="assets/logo.jpg" alt="Company Logo" class="logo">
                 <div class="quiz-controls">
                     <div class="timer" id="timer">
                         <svg width="20" height="20" viewBox="0 0 24 24">
@@ -65,7 +66,7 @@
                             <img id="questionImage" class="question-image" alt="Question Image">
                         </div>
                     </div>
-                    
+
                     <!-- Answers -->
                     <div class="answers-container" id="answersContainer">
                         <!-- Answers will be dynamically added here -->
@@ -74,13 +75,15 @@
 
                 <!-- Navigation -->
                 <div class="quiz-navigation">
+                    <!-- Previous Button -->
                     <button class="nav-btn prev-btn" id="prevBtn" disabled>
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                             <polyline points="15,18 9,12 15,6"></polyline>
                         </svg>
                         <span>Նախորդ</span>
                     </button>
-                    
+
+                    <!-- Center Section (Questions Button) -->
                     <div class="nav-center">
                         <button class="nav-btn questions-btn" id="questionsBtn">
                             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -90,20 +93,24 @@
                             </svg>
                             <span>Հարցեր</span>
                         </button>
-                        
-                        <button class="nav-btn submit-btn" id="submitBtn" style="display: none;">
-                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <polyline points="20,6 9,17 4,12"></polyline>
-                            </svg>
-                            <span>Ավարտել</span>
-                        </button>
+                        <!-- Submit button is NO LONGER HERE -->
                     </div>
-                    
+
+                    <!-- Next Button (Initially Visible) -->
                     <button class="nav-btn next-btn" id="nextBtn">
                         <span>Հաջորդ</span>
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                             <polyline points="9,18 15,12 9,6"></polyline>
                         </svg>
+                    </button>
+
+                    <!-- Submit Button (Initially Hidden, Positioned like Next Button) -->
+                    <!-- Moved outside of .nav-center -->
+                    <button class="nav-btn submit-btn" id="submitBtn" style="display: none;">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polyline points="20,6 9,17 4,12"></polyline>
+                        </svg>
+                        <span>Ավարտել</span>
                     </button>
                 </div>
             </div>
@@ -125,7 +132,7 @@
         </div>
     </div>
 
-        <!-- Submit Confirmation Modal -->
+    <!-- Submit Confirmation Modal -->
     <div class="modal" id="submitModal">
         <div class="modal-content">
             <div class="modal-header">
@@ -175,8 +182,6 @@
             </div>
         </div>
     </div>
-
-    
 
     <script src="js/utils.js"></script>
     <script src="js/quiz.js"></script>

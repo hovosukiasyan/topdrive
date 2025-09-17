@@ -189,7 +189,7 @@ const DataLoader = {
             console.error('Error loading test data:', error);
             throw error;
         }
-    },
+        },
 
     async loadAllTests() {
         try {
@@ -201,7 +201,7 @@ const DataLoader = {
             
             // Fallback: load individual test files
             const tests = [];
-            for (let i = 1; i <= 63; i++) {
+            for (let i = 0; i <= 64; i++) {
                 try {
                     const testData = await this.loadTestData(i);
                     tests.push(testData);
@@ -309,7 +309,8 @@ const NotificationUtils = {
 // Validation utilities
 const ValidationUtils = {
     isValidTestNumber(testNumber) {
-        return Number.isInteger(testNumber) && testNumber >= 1 && testNumber <= 63;
+    // MUST allow 0 for the Color Blindness/Hygiene Test
+        return Number.isInteger(testNumber) && testNumber >= 0 && testNumber <= 64;
     },
 
     isValidQuestionIndex(index, totalQuestions) {

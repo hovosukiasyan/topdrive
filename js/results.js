@@ -123,6 +123,7 @@ class ResultsApp {
     }
 
     displayScoreSummary() {
+        
         if (!this.results) return;
 
         // Update score title and icon
@@ -131,6 +132,7 @@ class ResultsApp {
         const scoreCard = document.querySelector('.score-card');
         
         if (scoreTitle && scoreIcon && scoreCard) {
+            console.log(scoreTitle, scoreIcon, scoreCard);
             if (this.results.passed) {
                 scoreTitle.textContent = 'Քննությունը հաջողությամբ ավարտված է!';
                 scoreIcon.innerHTML = `
